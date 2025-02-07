@@ -30,10 +30,6 @@
 * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/dnsop-document-status.md)
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 
-<!--
-* [ietf_wg_dnsop](https://twitter.com/ietf_wg_rpp)
--->
-
 ## Agenda (preliminary)
 
 ### Administrivia
@@ -47,13 +43,13 @@
 [speakers are provisional - duration TBD]
 
 * WG-operation
-** Tools and working group process (wiki/Github etc.)
-** Work planning / milestones.
+  - Tools and working group process (wiki/Github etc.)
+  - Work planning / milestones.
 * Requirements
 * Report back from hackathon (M. Wullink)
 * Various updates
-** Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould)
-** Related aspects from the CENTR Registry Survey (P. Kowalik ?)
+  - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould)
+  - Related aspects from the CENTR Registry Survey (P. Kowalik ?)
 * Some initial thought on architecture (P. Kowalik)
 
 ### Current Working Group Business
