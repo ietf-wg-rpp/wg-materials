@@ -8,7 +8,10 @@ Chairs:
   - TBD
   - TBD
 
-Area Director: Orie Steele
+Secretary:
+  - TBD
+
+Area Director: [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries)
 
 Mailing List: http://www.ietf.org/mailman/listinfo/rpp
 
