@@ -19,12 +19,6 @@
 * TBD [tbd@example.nl](tbd@example.nl)
 * TBD [tbd@example.com](tbd@example.com) [remote]
 
-<!--
-### IESG Overlord
-
-* Warren Kumari [warren@kumari.net](warren@kumari.net)
--->
-
 ### Document Status
 
 * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/dnsop-document-status.md)
@@ -36,7 +30,7 @@
 
 * Agenda Bashing, Blue Sheets, etc,  10 min
 
-<--
+<!--
 * Updates of Old Work, Chairs, 10 mi
 -->
 
