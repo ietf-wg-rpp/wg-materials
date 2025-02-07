@@ -12,9 +12,9 @@ Area Director: Orie Steele
 
 Mailing List: http://www.ietf.org/mailman/listinfo/rpp
 
-Contributing:  https://github.com/ietf-wg-dnsop/wg-materials/blob/master/CONTRIBUTING.md
+Contributing:  https://github.com/ietf-wg-rpp/wg-materials/blob/master/CONTRIBUTING.md
 
-Document Status: https://github.com/ietf-wg-rpp/wg-materials/blob/master/dnsop-document-status.md
+Document Status: https://github.com/ietf-wg-rpp/wg-materials/blob/master/rpp-document-status.md
 
 # Note Well
 
