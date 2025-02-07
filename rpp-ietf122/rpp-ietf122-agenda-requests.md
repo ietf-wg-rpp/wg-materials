@@ -10,10 +10,10 @@
     - Time Requested:
     - DocType:
 
-## Requests
+## Requests (example)
 
-*   Draft name: [none
+*   Draft name: [none]
     - Datatracker URL: https://datatracker.ietf.org/wg/rpp/documents/
     - Requester Email: John Doe <johndoe@example.nl>
-    - Time Requested: 30min
+    - Time Requested: xxmin
     - DocType: I-D
