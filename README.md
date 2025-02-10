@@ -13,7 +13,9 @@ Co-Chairs:
 WG Secretary:
   - TBD
 
-Area Director: [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries)
+Area Directos: 
+  - [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries)
+  - [Andy Newton (incominng)](https://datatracker.ietf.org/person/andy@hxr.us)
 
 Mailing List: http://www.ietf.org/mailman/listinfo/rpp
 
