@@ -40,9 +40,11 @@
 * Requirements (discussion), 20 min.
 * Report back from hackathon (M. Wullink), 10 min.
 * Various updates
+  - Related aspects from the CENTR Registry Survey (P. Kowalik), 5 min.
   - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould), xx min.
-  - Related aspects from the CENTR Registry Survey (P. Kowalik ?), xx min.
-* Some initial thoughts on architecture (P. Kowalik), xx min.
+  - Open mic for discussion, xx min.
+* Some initial thoughts on architecture (P. Kowalik), 10 min.
+  - Discussion, 10 min.
 
 ### For Consideration
 
