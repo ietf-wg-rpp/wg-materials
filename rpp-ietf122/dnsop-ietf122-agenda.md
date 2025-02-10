@@ -36,6 +36,7 @@
 ### Current Working Group Business
 * WG-operation
   - Tools and working group process; wiki/Github etc. (chairs ?), 10 minutes
+    - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
   - Work planning / milestones (chairs?), 10 minutes
 * Requirements - discussion (?), 20 min.
   - (in progress)
