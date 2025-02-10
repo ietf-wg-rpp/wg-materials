@@ -30,6 +30,8 @@ Contributing:  https://github.com/ietf-wg-rpp/wg-materials/blob/master/CONTRIBUT
 
 Document Status: https://github.com/ietf-wg-rpp/wg-materials/blob/master/rpp-document-status.md
 
+Charter Status: https://datatracker.ietf.org/doc/charter-ietf-rpp/
+
 <!-- Wiki: https://wiki.ietf.org/group/rpp -->
 
 # Note Well
