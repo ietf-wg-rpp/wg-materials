@@ -33,6 +33,7 @@
 <!--
 * Updates of Old Work, Chairs, 10 min.
 -->
+### Current Working Group Business
 * WG-operation
   - Tools and working group process (wiki/Github etc.), 10 min.
   - Work planning / milestones, 10 min.
@@ -43,23 +44,13 @@
   - Related aspects from the CENTR Registry Survey (P. Kowalik ?), xx min.
 * Some initial thoughts on architecture (P. Kowalik), xx min.
 
-### Relevant reading material
-
-* https://datatracker.ietf.org/doc/statement-iesg-support-documents-in-ietf-working-groups-20230824
-
-### Current Working Group Business
-
-* TBD
-
 ### For Consideration
 
 * TBD
-
-
 ### Time Permitting
 
 * TBD
 
-## Relevant reading material
+#### Relevant reading material
 
 * https://datatracker.ietf.org/doc/statement-iesg-support-documents-in-ietf-working-groups-20230824
