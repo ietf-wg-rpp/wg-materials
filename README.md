@@ -17,7 +17,7 @@ Area Directors:
   - [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries)
   - [Andy Newton (incominng)](https://datatracker.ietf.org/person/andy@hxr.us)
 
-Tige Team:
+Tiger Team:
   - [James Gould](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/james-gould/index.xhtml) (Verisign)
   - [Jody Kolker](https://datatracker.ietf.org/person/jkolker@godaddy.com) (GoDaddy)
   - [Pawel Kowalik](https://blog.denic.de/en/author/pawel/) (DENIC)
