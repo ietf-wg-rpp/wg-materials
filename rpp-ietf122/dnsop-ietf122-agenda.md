@@ -1,5 +1,5 @@
 
-# DNS Operations (DNSOP) Working Group
+# RESTful Provisioning Protocol (RPP) Working Group
 
 ## IETF 122
 
