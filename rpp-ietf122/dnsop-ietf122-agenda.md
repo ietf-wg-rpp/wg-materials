@@ -60,3 +60,7 @@
 ### Time Permitting
 
 * TBD
+
+## Relevant reading material
+
+* https://datatracker.ietf.org/doc/statement-iesg-support-documents-in-ietf-working-groups-20230824
