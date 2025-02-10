@@ -44,7 +44,7 @@
 * Various updates
   - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould), xx min.
   - Related aspects from the CENTR Registry Survey (P. Kowalik ?), xx min.
-* Some initial thought on architecture (P. Kowalik), xx min.
+* Some initial thoughts on architecture (P. Kowalik), xx min.
 
 ### Current Working Group Business
 
