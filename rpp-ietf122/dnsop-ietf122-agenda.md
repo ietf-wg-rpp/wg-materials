@@ -28,23 +28,23 @@
 
 ### Administrivia
 
-* Agenda Bashing, Blue Sheets, etc,  10 min
+* Agenda Bashing, Blue Sheets, etc,  10 min.
 
 <!--
-* Updates of Old Work, Chairs, 10 mi
+* Updates of Old Work, Chairs, 10 min.
 -->
 
 [speakers are provisional - duration TBD]
 
 * WG-operation
-  - Tools and working group process (wiki/Github etc.)
-  - Work planning / milestones.
-* Requirements
-* Report back from hackathon (M. Wullink)
+  - Tools and working group process (wiki/Github etc.), 10 min.
+  - Work planning / milestones, 10 min.
+* Requirements (discussion), 20 min.
+* Report back from hackathon (M. Wullink), 10 min.
 * Various updates
-  - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould)
-  - Related aspects from the CENTR Registry Survey (P. Kowalik ?)
-* Some initial thought on architecture (P. Kowalik)
+  - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould), xx min.
+  - Related aspects from the CENTR Registry Survey (P. Kowalik ?), xx min.
+* Some initial thought on architecture (P. Kowalik), xx min.
 
 ### Current Working Group Business
 
