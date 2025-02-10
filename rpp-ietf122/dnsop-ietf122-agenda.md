@@ -28,14 +28,12 @@
 
 ### Administrivia
 
-* Agenda Bashing, Blue Sheets, etc,  10 min.
+[speakers are provisional - duration TBD]
 
+* Agenda Bashing, Blue Sheets, etc,  10 min.
 <!--
 * Updates of Old Work, Chairs, 10 min.
 -->
-
-[speakers are provisional - duration TBD]
-
 * WG-operation
   - Tools and working group process (wiki/Github etc.), 10 min.
   - Work planning / milestones, 10 min.
