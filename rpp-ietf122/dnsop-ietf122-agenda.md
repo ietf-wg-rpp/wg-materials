@@ -40,7 +40,7 @@
 * Requirements - discussion (?), 20 min.
   - (in progress)
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
-  - [and also here]9https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
+  - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
 * Report back from hackathon (M. Wullink), 10 minutes
 * Various updates
   - Related aspects from the CENTR Registry Survey (P. Kowalik), 5 minutes
