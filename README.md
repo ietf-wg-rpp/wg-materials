@@ -20,7 +20,7 @@ Area Directors:
 Tige Team:
   - [James Gould](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/james-gould/index.xhtml) (Verisign)
   - [Jody Kolker](https://datatracker.ietf.org/person/jkolker@godaddy.com) (GoDaddy)
-  - [Pawel Kowalik])https://blog.denic.de/en/author/pawel/) (DENIC)
+  - [Pawel Kowalik](https://blog.denic.de/en/author/pawel/) (DENIC)
   - [Eric Skoglund](https://www.linkedin.com/in/eric-skoglund-69433390/) (Internet Infrastructure Foundation)
   - [Maarten Wullink](https://datatracker.ietf.org/person/maarten.wullink@sidn.nl) (SIDN)
 
