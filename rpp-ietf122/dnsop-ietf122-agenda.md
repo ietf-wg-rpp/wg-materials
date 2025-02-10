@@ -44,6 +44,10 @@
   - Related aspects from the CENTR Registry Survey (P. Kowalik ?), xx min.
 * Some initial thoughts on architecture (P. Kowalik), xx min.
 
+### Relevant reading material
+
+* https://datatracker.ietf.org/doc/statement-iesg-support-documents-in-ietf-working-groups-20230824
+
 ### Current Working Group Business
 
 * TBD
