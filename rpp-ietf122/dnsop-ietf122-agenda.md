@@ -51,7 +51,7 @@
 * TBD
 ### Time Permitting
 
-* TBD
+* NA
 
 #### Relevant reading material
 
