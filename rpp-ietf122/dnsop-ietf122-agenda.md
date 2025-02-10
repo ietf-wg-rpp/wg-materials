@@ -25,10 +25,9 @@
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 
 ## Agenda (preliminary)
+[speakers are provisional - duration TBD]
 
 ### Administrivia
-
-[speakers are provisional - duration TBD]
 
 * Agenda Bashing, Blue Sheets, etc,  10 min.
 <!--
