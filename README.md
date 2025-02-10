@@ -4,11 +4,13 @@
 
 https://datatracker.ietf.org/wg/rpp/about/
 
-Chairs:
+Area: [ART](https://datatracker.ietf.org/group/art/about/)
+
+Co-Chairs:
   - TBD
   - TBD
 
-Secretary:
+WG Secretary:
   - TBD
 
 Area Director: [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries)
