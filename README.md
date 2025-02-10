@@ -30,6 +30,8 @@ Contributing:  https://github.com/ietf-wg-rpp/wg-materials/blob/master/CONTRIBUT
 
 Document Status: https://github.com/ietf-wg-rpp/wg-materials/blob/master/rpp-document-status.md
 
+<!-- Wiki: https://wiki.ietf.org/group/rpp -->
+
 # Note Well
 
 This is a reminder of IETF policies in effect on various topics such
