@@ -5,8 +5,8 @@ Current status: Session Planning
 
 | Role | Name |
 |---------|---------|
-| WG Secretary of the day | TBD |
-| WG Facilitator of the day | TBD |
+| WG Secretary (of the day) | TBD |
+| WG Facilitator (of the day) | TBD |
 
 (see https://datatracker.ietf.org/doc/html/rfc2418#section-6)
 
