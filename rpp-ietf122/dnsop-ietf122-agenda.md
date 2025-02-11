@@ -30,6 +30,7 @@
 ### Administrivia
 
 * Agenda Bashing, Blue Sheets, etc. (chairs), 10 minutes
+* A word from the AD (?), 5 minutes
 <!--
 * Updates of Old Work, Chairs, 10 minutes
 -->
