@@ -40,7 +40,7 @@
     - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
   - Deliverables / milestones (chairs?), 10 minutes
     - (see charter)
-* Requirements - discussion (?), 20 min.
+* Requirements - discussion (M. Wullink), 20 min.
   - (in progress)
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
