@@ -39,7 +39,7 @@
   - Tools and working group process; wiki/Github etc. (chairs ?), 10 minutes
     - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
   - Deliverables / milestones (chairs?), 10 minutes
-    - (see charter)
+    - [see concept charter here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/rpp-charter.md)
 * Various updates
   - Report back from hackathon (M. Wullink), 10 minutes
     - [relevant url here](https://www.ietf.org/meeting/hackathons/122-hackathon/)
