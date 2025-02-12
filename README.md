@@ -4,7 +4,7 @@
 
 https://datatracker.ietf.org/wg/rpp/about/
 
-Area: [ART](https://datatracker.ietf.org/group/art/about/) art-ads@ietf.org	
+Area: [ART](https://datatracker.ietf.org/group/art/about/) (art-ads@ietf.org)	
 
 Co-Chairs:
   - TBD
