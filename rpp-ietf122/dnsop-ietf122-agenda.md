@@ -63,4 +63,5 @@
 
 #### Relevant reading material
 
+* https://datatracker.ietf.org/meeting/121/materials/agenda-121-rpp-02
 * https://datatracker.ietf.org/doc/statement-iesg-support-documents-in-ietf-working-groups-20230824
