@@ -36,6 +36,8 @@ Charter Status: https://datatracker.ietf.org/doc/charter-ietf-rpp/
 
 # Note Well
 
+<!-- source: https://github.com/ietf/repo-files/blob/main/NOTE-WELL.md -->
+
 This is a reminder of IETF policies in effect on various topics such
 as patents or code of conduct.  It is only meant to point you in the
 right direction. Exceptions may apply. The IETF's patent policy and the
