@@ -52,6 +52,7 @@
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
 * Some initial thoughts on architecture (P. Kowalik), 10 minutes
   - Discussion, 10 minutes
+* AOB, closing remarks, 2 minutes
 
 ### For Consideration
 
