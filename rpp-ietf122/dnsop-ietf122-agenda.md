@@ -25,7 +25,6 @@
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 
 ## Agenda (preliminary)
-[speakers are provisional - duration TBD]
 
 ### Administrivia
 
