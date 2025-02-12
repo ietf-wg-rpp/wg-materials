@@ -30,7 +30,7 @@
 ### Administrivia
 
 * Agenda Bashing, Blue Sheets, etc. (chairs), 10 minutes
-* A word from the ADs (Orie ?), 5 minutes
+* A word from the ADs (O. Steele), 5 minutes
 <!--
 * Updates of Old Work, Chairs, 10 minutes
 -->
