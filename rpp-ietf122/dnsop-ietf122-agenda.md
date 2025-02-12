@@ -38,7 +38,8 @@
 * WG-operation
   - Tools and working group process; wiki/Github etc. (chairs ?), 10 minutes
     - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
-  - Work planning / milestones (chairs?), 10 minutes
+  - Deliverables / milestones (chairs?), 10 minutes
+    - (see charter)
 * Requirements - discussion (?), 20 min.
   - (in progress)
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
