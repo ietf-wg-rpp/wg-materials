@@ -3,7 +3,7 @@
 
 ## IETF 122
 
-* Date:
+* Date: xx March 2025
 * Time:
 * Room:
 
