@@ -46,7 +46,6 @@
   - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould), 10 minutes
   - Open mic for discussion, 10 minutes
 * Requirements - discussion (M. Wullink), 20 min.
-  - (in progress)
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
 * Some initial thoughts on architecture (P. Kowalik), 10 minutes
