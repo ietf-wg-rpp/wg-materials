@@ -42,9 +42,9 @@
 * Various updates
   - Report back from hackathon (M. Wullink), 10 minutes
     - [relevant url here](https://www.ietf.org/meeting/hackathons/122-hackathon/)
-  - Related aspects from the CENTR Registry Survey (P. Kowalik), 5 minutes
+  - Related aspects from the CENTR Registry Survey (P. Kowalik), 10 minutes
   - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould), 10 minutes
-  - Open mic for discussion, 10 minutes
+  - Open mic for discussion, 20 minutes
 * Requirements - discussion (M. Wullink), 20 min.
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
