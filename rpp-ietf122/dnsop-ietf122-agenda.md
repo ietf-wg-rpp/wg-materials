@@ -35,9 +35,9 @@
 -->
 ### Current Working Group Business
 * WG-operation
-  - Tools and working group process; Wiki/Github etc. (chairs ?), 10 minutes
+  - Tools and working group process; Wiki/Github etc. (Marco), 10 minutes
     - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
-  - Deliverables / milestones (chairs?), 10 minutes
+  - Deliverables / milestones (Gavin), 10 minutes
     - [see concept charter here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/rpp-charter.md)
 * Various updates
   - Report back from hackathon (M. Wullink), 10 minutes
