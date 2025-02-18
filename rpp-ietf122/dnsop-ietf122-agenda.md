@@ -3,9 +3,9 @@
 
 ## IETF 122
 
-* Date: xx March 2025
-* Time:
-* Room:
+* Date: 17 March 2025
+* Time: 13:00 - 15:00 ICT (06:00 - 08:00 UTC)
+* Room: Chitlada 1
 
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf122/?session=)
 * [OnSiteTool](https://meetings.conf.meetecho.com/onsite122/?session=)
