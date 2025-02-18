@@ -5,7 +5,7 @@
 
 * Date: 17 March 2025
 * Time: 13:00 - 15:00 ICT (06:00 - 08:00 UTC)
-* Room: Chitlada 1
+* Room: Chitlada 1, 2nd floor
 
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf122/?session=34021)
 * [OnSiteTool](https://meetings.conf.meetecho.com/onsite122/?session=34021)
