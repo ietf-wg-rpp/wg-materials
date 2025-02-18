@@ -39,6 +39,7 @@
     - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
   - Deliverables / milestones (Gavin), 10 minutes
     - [see concept charter here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/rpp-charter.md)
+    - [see slide 6 and 7 of these slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-charter-discussion-slides-00)
 * Various updates
   - Report back from hackathon (M. Wullink), 10 minutes
     - [relevant url here](https://www.ietf.org/meeting/hackathons/122-hackathon/)
