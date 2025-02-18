@@ -7,8 +7,8 @@
 * Time: 13:00 - 15:00 ICT (06:00 - 08:00 UTC)
 * Room: Chitlada 1
 
-* [MeetEcho](https://meetings.conf.meetecho.com/ietf122/?session=)
-* [OnSiteTool](https://meetings.conf.meetecho.com/onsite122/?session=)
+* [MeetEcho](https://meetings.conf.meetecho.com/ietf122/?session=34021)
+* [OnSiteTool](https://meetings.conf.meetecho.com/onsite122/?session=34021)
 
 * [Minutes](https://codimd.ietf.org/notes-ietf-122-rpp)
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
