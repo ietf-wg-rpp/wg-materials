@@ -28,7 +28,7 @@
 
 ### Administrivia
 
-* Agenda Bashing, Blue Sheets, Note Well, etc. (Gavin), 10 minutes
+* Agenda Bashing, Blue Sheets, Note Well, etc. (Gavin), 5 minutes
 * A word from the ADs (O. Steele), 5 minutes
 <!--
 * Updates of Old Work, Chairs, 10 minutes
@@ -45,7 +45,7 @@
     - [relevant url here](https://www.ietf.org/meeting/hackathons/122-hackathon/)
   - Related aspects from the CENTR Registry Survey (P. Kowalik), 10 minutes
   - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould), 10 minutes
-  - Open mic for discussion, 20 minutes
+  - Open mic for clarifying questions, 5 minutes
 * Requirements - discussion (M. Wullink), 20 min.
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
@@ -53,6 +53,7 @@
   - [relevant reading here](https://github.com/pawel-kow/RPP-architecture)
   - Discussion, 10 minutes
 * AOB, closing remarks (chairs), 2 minutes
+<!-- slack: 18 minutes -->
 
 ### For Consideration
 
