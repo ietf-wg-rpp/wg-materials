@@ -49,11 +49,12 @@
 * Requirements - discussion (M. Wullink), 20 min.
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
+  - Discussion, 10 minutes
 * Some initial thoughts on architecture (P. Kowalik), 10 minutes
   - [relevant reading here](https://github.com/pawel-kow/RPP-architecture)
   - Discussion, 10 minutes
 * AOB, closing remarks (chairs), 2 minutes
-<!-- slack: 18 minutes -->
+<!-- slack: 8 minutes -->
 
 ### For Consideration
 
