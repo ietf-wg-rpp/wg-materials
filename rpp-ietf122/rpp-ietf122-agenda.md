@@ -29,7 +29,7 @@
 ### Administrivia
 
 * Agenda Bashing, Blue Sheets, Note Well, etc. (Gavin), 5 minutes
-* A word from the ADs (O. Steele), 5 minutes
+* A word from the ADs (O. Steele), 5 minutes, no slides
 <!--
 * Updates of Old Work, Chairs, 10 minutes
 -->
