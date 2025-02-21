@@ -41,7 +41,7 @@
     - [see concept charter here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/rpp-charter.md)
     - [see slide 6 and 7 of these slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-charter-discussion-slides-00)
 * Various updates
-  - Report back from hackathon (M. Wullink), 10 minutes
+  - Hackathon recap (M. Wullink), 10 minutes
     - [relevant url here](https://www.ietf.org/meeting/hackathons/122-hackathon/)
   - Related aspects from the CENTR Registry Survey (P. Kowalik), 10 minutes
   - Update of the progress of the EPP Extensibility and Extensions analysis done by the Tiger Team (J. Gould), 10 minutes
