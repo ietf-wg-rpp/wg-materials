@@ -7,8 +7,8 @@ https://datatracker.ietf.org/wg/rpp/about/
 Area: [ART](https://datatracker.ietf.org/group/art/about/) (art-ads@ietf.org)	
 
 Co-Chairs:
-  - TBD
-  - TBD
+  - [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
+  - [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
 
 WG Secretary:
   - TBD
