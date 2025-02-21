@@ -34,7 +34,7 @@
 * Updates of Old Work, Chairs, 10 minutes
 -->
 ### Current Working Group Business
-* WG-operation
+* WG Operation
   - Tools and working group process; Wiki/Github etc. (Marco), 10 minutes
     - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
   - Deliverables / milestones (Gavin), 10 minutes
