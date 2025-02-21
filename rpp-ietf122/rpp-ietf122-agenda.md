@@ -46,11 +46,11 @@
   - CENTR Survey Insights (P. Kowalik), 10 minutes
   - EPP Extensibility & Extensions – Tiger Team Progress Update (J. Gould), 10 minutes
   - Open mic for clarifying questions, 5 minutes
-* Requirements - discussion (M. Wullink), 20 min.
+* Requirements - Further Exploration + discussion (M. Wullink), 20 min.
   - [relevant reading here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/requirements.md)
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
   - Discussion, 10 minutes
-* Some initial thoughts on architecture (P. Kowalik), 10 minutes
+* Architecture - initial thoughts + discussion (P. Kowalik), 10 minutes
   - [relevant reading here](https://github.com/pawel-kow/RPP-architecture)
   - Discussion, 10 minutes
 * AOB, closing remarks (chairs), 2 minutes
