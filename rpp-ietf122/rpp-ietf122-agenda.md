@@ -16,8 +16,8 @@
 
 ### Chairs
 
-* [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
-* [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
+* [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org) (remote)
+* [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl) (onsite)
 
 ### Document Status
 
