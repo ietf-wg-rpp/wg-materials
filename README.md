@@ -1,5 +1,5 @@
 # RESTful Provisioning Protocol (RPP)
-## Working Group of the Internet Engineering Task Force (IETF)
+Working Group of the Internet Engineering Task Force (IETF)
 
 https://datatracker.ietf.org/wg/rpp/about/
 
