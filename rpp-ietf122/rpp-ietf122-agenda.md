@@ -16,8 +16,8 @@
 
 ### Chairs
 
-* TBD [tbd@example.nl](tbd@example.nl)
-* TBD [tbd@example.com](tbd@example.com) [remote]
+* [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
+* [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
 
 ### Document Status
 
