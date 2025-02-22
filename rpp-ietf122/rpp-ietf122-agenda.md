@@ -24,7 +24,7 @@
 * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/dnsop-document-status.md)
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 
-## Agenda (preliminary)
+## Agenda
 
 ### Administrivia
 
