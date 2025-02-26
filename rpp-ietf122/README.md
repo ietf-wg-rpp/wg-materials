@@ -1,6 +1,7 @@
 # IETF 122 - Bangkok
-Current status: Session Planning
+Current status: Session Planned
 
+<!--
 (see: https://datatracker.ietf.org/doc/html/rfc2418#section-3.1)
 
 | Role | Name |
@@ -11,5 +12,6 @@ Current status: Session Planning
 (see https://datatracker.ietf.org/doc/html/rfc2418#section-6)
 
 ## Work in progress.
+-->
 
 
