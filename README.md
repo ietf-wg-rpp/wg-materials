@@ -7,10 +7,11 @@ Area: [ART](https://datatracker.ietf.org/group/art/about/) (art-ads@ietf.org)
 Co-Chairs:
   - [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
   - [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
+<!--
 
 WG Secretary:
   - TBD
-
+-->
 Area Directors: 
   - [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries)
   - [Andy Newton (incoming)](https://datatracker.ietf.org/person/andy@hxr.us)
@@ -30,7 +31,7 @@ Document Status: https://github.com/ietf-wg-rpp/wg-materials/blob/master/rpp-doc
 
 Charter: https://datatracker.ietf.org/doc/charter-ietf-rpp/
 
-<!-- Wiki: https://wiki.ietf.org/group/rpp -->
+Wiki: https://wiki.ietf.org/group/rpp
 
 # Note Well
 
