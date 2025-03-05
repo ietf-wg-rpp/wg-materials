@@ -58,7 +58,8 @@
 
 ### For Consideration
 
-* TBD
+* NA
+  
 ### Time Permitting
 
 * NA
