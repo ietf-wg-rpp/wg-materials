@@ -37,6 +37,7 @@
 * WG Operation
   - Tools and working group process; Wiki/Github etc. (Marco), 10 minutes
     - [relevant reading here](https://datatracker.ietf.org/doc/html/rfc8874)
+    - [IETF wiki on this topic here](https://chairs.ietf.org/github)
   - Deliverables / Milestones (Gavin), 10 minutes
     - [see concept charter here](https://github.com/SIDN/ietf-wg-rpp-charter/blob/main/rpp-charter.md)
     - [see slide 6 and 7 of these slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-charter-discussion-slides-00)
