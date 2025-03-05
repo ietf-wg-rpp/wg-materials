@@ -51,7 +51,7 @@
   - [and also here](https://datatracker.ietf.org/meeting/121/materials/slides-121-rpp-rpp-drafts-requirements-01)
 * Architecture - Initial Thoughts + discussion (P. Kowalik), 10+10 minutes
   - [relevant reading here](https://github.com/pawel-kow/RPP-architecture)
-  - [relevant ID here](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/)
+  - [resulting I-D here](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/)
 * AOB, closing remarks (chairs), 2 minutes
 <!-- slack: 8 minutes -->
 
