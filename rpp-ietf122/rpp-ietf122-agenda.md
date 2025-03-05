@@ -52,7 +52,7 @@
 * Architecture - Initial Thoughts + discussion (P. Kowalik), 10+10 minutes
   - [related reading here](https://github.com/pawel-kow/RPP-architecture)
   - [resulting I-D here](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/)
-  - [relevant background reading here](https://datatracker.ietf.org/doc/html/rfc6174#section-4.2.3)
+  - [relevant background reading in RFC6174](https://datatracker.ietf.org/doc/html/rfc6174#section-4.2.3)
 * AOB, closing remarks (chairs), 2 minutes
 <!-- slack: 8 minutes -->
 
