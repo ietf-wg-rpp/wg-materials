@@ -33,6 +33,8 @@ Charter: https://datatracker.ietf.org/doc/charter-ietf-rpp/
 
 Wiki: https://wiki.ietf.org/group/rpp
 
+Meetings: https://datatracker.ietf.org/wg/rpp/meetings/
+
 # Note Well
 
 <!-- source: https://github.com/ietf/repo-files/blob/main/NOTE-WELL.md -->
