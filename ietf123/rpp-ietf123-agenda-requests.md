@@ -1,11 +1,13 @@
+<!--
 > [!NOTE]
 > We are fully booked, so in principal additional requests can not be accepted.
 >
+-->
 
 ## IETF RPP Agenda Requests
 
 <!--
-## Propose Slides: https://datatracker.ietf.org/meeting/122/session/rpp
+## Propose Slides: https://datatracker.ietf.org/meeting/123/session/rpp
 -->
 ## Request Template Example
 
