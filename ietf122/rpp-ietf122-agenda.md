@@ -59,11 +59,11 @@
 
 ### For Consideration
 
-* NA
+* M. Wullink: [draft-rpp-core](https://datatracker.ietf.org/doc/draft-rpp-core/)
+* P. Kowalik: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/)
   
 ### Time Permitting
 
-* Maarten: [draft-rpp-core](https://datatracker.ietf.org/doc/draft-rpp-core/)
 * Pawel: Specific RPP design challenges
 
 #### Relevant reading material
