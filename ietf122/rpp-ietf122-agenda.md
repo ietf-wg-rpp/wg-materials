@@ -63,8 +63,8 @@
   
 ### Time Permitting
 
-* Pawel: Specific RPP design challenges
 * Maarten: [draft-rpp-core](https://datatracker.ietf.org/doc/draft-rpp-core/)
+* Pawel: Specific RPP design challenges
 
 #### Relevant reading material
 
