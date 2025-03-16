@@ -22,8 +22,7 @@
 ### Document Status
 
 * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/rpp-document-status.md)
-* [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/) (also relevant: https://datatracker.ietf.org/doc/draft-wullink-restful-epp/)
-
+* [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 ## Agenda
 
 ### Administrivia
