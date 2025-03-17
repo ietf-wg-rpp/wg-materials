@@ -9,7 +9,6 @@
 
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf122/?session=34021) full client (with video)
 * [OnSiteTool](https://meetings.conf.meetecho.com/onsite122/?session=34021)
-
 <!-- * [Minutes](https://codimd.ietf.org/notes-ietf-122-rpp) -->
 * [Published minutes](https://notes.ietf.org/s/notes-ietf-122-rpp)
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
