@@ -44,6 +44,7 @@
 * Various Updates
   - Hackathon Recap (M. Wullink), 10 minutes
     - [relevant url here](https://www.ietf.org/meeting/hackathons/122-hackathon/)
+    - [Hackathon Overview](https://wiki.ietf.org/en/group/rpp/rpp-hackathon)
   - CENTR Survey Insights (P. Kowalik), 10 minutes
   - EPP Extensibility & Extensions – Tiger Team Progress Update (J. Gould), 10 minutes, remote
   - Open mic for clarifying questions, 5 minutes
