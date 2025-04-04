@@ -7,8 +7,8 @@
 * Time: ??:?? - ??:?? CEST (??:?? - ??:?? UTC)
 * Room: ??
 
-* [MeetEcho](https://meetings.conf.meetecho.com/ietf123/?session=34021) full client (with video)
-* [OnSiteTool](https://meetings.conf.meetecho.com/onsite123/?session=34021)
+* [MeetEcho](https://meetings.conf.meetecho.com/ietf123/?session=??) full client (with video)
+* [OnSiteTool](https://meetings.conf.meetecho.com/onsite123/?session=??)
 <!-- * [Minutes](https://codimd.ietf.org/notes-ietf-123-rpp) -->
 * [Published minutes](https://notes.ietf.org/s/notes-ietf-123-rpp)
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
