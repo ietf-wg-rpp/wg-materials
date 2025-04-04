@@ -1,4 +1,5 @@
 # IETF 123 - Madrid
+19 Jul 2025 - 25 Jul 2025
 Current status: To Do
 
 see: https://datatracker.ietf.org/meeting/important-dates/#IETF123
