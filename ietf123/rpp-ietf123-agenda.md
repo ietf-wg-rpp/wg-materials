@@ -46,6 +46,6 @@
 #### Relevant reading material
 
 * IETF122:
-  - https://datatracker.ietf.org/meeting/122/materials/agenda-122-rpp-04
+  - https://datatracker.ietf.org/meeting/122/materials/agenda-122-rpp
   - https://datatracker.ietf.org/meeting/122/session/rpp/
   - https://notes.ietf.org/notes-ietf-122-rpp
