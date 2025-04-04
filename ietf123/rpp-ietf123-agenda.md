@@ -4,6 +4,8 @@
 ## IETF 123
 
 * Date: ?? July 2025
+
+<!--
 * Time: ??:?? - ??:?? CEST (??:?? - ??:?? UTC)
 * Room: ??
 
@@ -13,7 +15,7 @@
 * [Published minutes](https://notes.ietf.org/s/notes-ietf-123-rpp)
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
 * [Upload Slides](https://datatracker.ietf.org/meeting/123/session/rpp)
-
+-->
 ### Chairs
 
 * [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org) (remote)
