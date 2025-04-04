@@ -32,7 +32,7 @@
 
 ### Administrivia
 
-* Agenda Bashing, Blue Sheets, Note Well, etc. (Gavin), 5 minutes
+* Agenda Bashing, Blue Sheets, Note Well, etc. (Chairs), 5 minutes
 <!--
 * Updates of Old Work, Chairs, 10 minutes
 -->
