@@ -49,3 +49,4 @@
   - https://datatracker.ietf.org/meeting/122/materials/agenda-122-rpp
   - https://datatracker.ietf.org/meeting/122/session/rpp/
   - https://notes.ietf.org/notes-ietf-122-rpp
+  - https://www.ietf.org/proceedings/122/bluesheets/bluesheets-122-rpp-202503170600-00.txt
