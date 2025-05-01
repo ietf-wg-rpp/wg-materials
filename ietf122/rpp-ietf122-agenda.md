@@ -65,7 +65,7 @@
   
 ### Time Permitting
 
-* Pawel: Specific RPP design challenges
+* P. Kowalik: Specific RPP design challenges (skipped because no time left)
 
 #### Relevant reading material
 
