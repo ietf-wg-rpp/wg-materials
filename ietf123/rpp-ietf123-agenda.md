@@ -1,7 +1,7 @@
 
 # RESTful Provisioning Protocol (RPP) Working Group
 
-## IETF 123
+## IETF 123 - Preliminary agenda (work in progress)
 
 * Date: ?? July 2025
 
@@ -37,7 +37,17 @@
 * Updates of Old Work, Chairs, 10 minutes
 -->
 ### Current Working Group Business
-* TBD
+* WG Operation
+  - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
+  - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
+* Various updates
+  - Hackathon Recap (M. Wullink), 5-10 minutes
+  - Specific RPP design challenges (P. Kowalik), 10 minutes
+  - Open mic for clarifying questions/discussion, 5 minutes
+* Deliverables / Milestones; current status and active documents
+  - Requirements I-D (M. Wullink), 20 minutes
+  - Architecture I-D (P. Kowalik), 20 minutes
+  - Core I-D (M. Wullink ?), 20 minutes
 
 ### Time Permitting
 
