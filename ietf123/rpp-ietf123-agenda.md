@@ -41,8 +41,9 @@
   - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
   - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
 * Various updates
-  - Hackathon Recap (P. Kowalik), 5 minutes
-  - Tiger Team update (J. Gould ?), 15-20 minutes
+  - Nordic Domain Days recap ?? (Gavin), 5 minutes
+  - Hackathon recap (P. Kowalik), 5 minutes
+  - Tiger Team update ?? (J. Gould ?), 15-20 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
   - Requirements I-D (M. Wullink), 70 minutes
