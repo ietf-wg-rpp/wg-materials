@@ -41,13 +41,18 @@
   - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
   - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
 * Various updates
-  - Hackathon Recap (M. Wullink), 5-10 minutes
-  - Specific RPP design challenges (P. Kowalik), 10 minutes
+  - Hackathon Recap (P. Kowalik), 5 minutes
+  - Tiger Team update (J. Gould ?), 15-20 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
-  - Requirements I-D (M. Wullink), 20 minutes
-  - Architecture I-D (P. Kowalik), 20 minutes
-  - Core I-D (M. Wullink ?), 20 minutes
+  - Requirements I-D (M. Wullink), ~60 minutes ?
+    - CENTR Jamoberee update (M. Wullink) 10 minutes (this depends on what there is to report, could also about a different topic, in which case we'll put it in another block)
+    - Further in depth discussion about requirements
+  - Specific RPP design challenges (P. Kowalik), 10 minutes
+ 
+### When applicable (meaning; when there are relevant updates)
+  - Architecture I-D (P. Kowalik), 5 minutes
+  - Core I-D (M. Wullink ?), 5-10 minutes  
 
 ### Time Permitting
 
