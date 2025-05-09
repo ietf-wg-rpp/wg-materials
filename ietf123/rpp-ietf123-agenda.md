@@ -31,11 +31,8 @@
 ## Agenda
 
 ### Administrivia
-
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
-<!--
-* Updates of Old Work, Chairs, 10 minutes
--->
+
 ### Current Working Group Business
 * WG Operation
   - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
@@ -50,7 +47,9 @@
     - CENTR Jamoberee update (M. Wullink), 10 minutes (this depends on what there is to report, could also about a different topic, in which case we'll put it in another block)
     - Further in depth discussion about requirements / open mic, 60 minutes
       - TODO: perhaps prepare a few 'show of hands' question beforehand
+* Miscellaneous
   - Specific RPP design challenges (P. Kowalik), 10 minutes
+* AOB, closing remarks (chairs), 2 minutes
  
 ### When applicable (meaning; when there are relevant updates)
   - Architecture I-D (P. Kowalik), 5 minutes
