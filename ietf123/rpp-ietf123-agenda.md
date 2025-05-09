@@ -21,7 +21,14 @@
 ### Chairs
 
 * [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
-* [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl) (onsite)
+* [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
+
+### Presenters
+* Gavin (onsite?)
+* Marco (onsite)
+* P. Kowalik (onsite)
+* M. Wullink (onsite)
+* J. Gould (?)
 
 ### Document Status
 
