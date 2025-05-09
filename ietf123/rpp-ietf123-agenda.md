@@ -46,7 +46,7 @@
   - Tiger Team update ?? (J. Gould ?), 15-20 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
-  - Requirements I-D (M. Wullink), 70 minutes
+  - Requirements I-D (M. Wullink + P. Kowalik ?), 70 minutes
     - CENTR Jamoberee update (M. Wullink), 10 minutes (this depends on what there is to report, could also about a different topic, in which case we'll put it in another block)
     - Further in depth discussion about requirements / open mic, 60 minutes
       - TODO: perhaps prepare a few 'show of hands' question beforehand
