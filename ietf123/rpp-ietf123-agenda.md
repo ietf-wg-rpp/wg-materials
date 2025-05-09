@@ -41,7 +41,7 @@
 * Various updates
   - Nordic Domain Days recap ?? (Gavin), 5 minutes
   - Hackathon recap (P. Kowalik), 5 minutes
-  - Tiger Team update ?? (J. Gould ?), 15-20 minutes
+  - Tiger Team update (J. Gould), 15-20 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
   - Requirements I-D (M. Wullink + P. Kowalik ?), 70 minutes
