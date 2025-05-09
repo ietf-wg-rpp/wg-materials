@@ -49,7 +49,7 @@
   - Requirements I-D (M. Wullink), 70 minutes
     - CENTR Jamoberee update (M. Wullink), 10 minutes (this depends on what there is to report, could also about a different topic, in which case we'll put it in another block)
     - Further in depth discussion about requirements / open mic, 60 minutes
-    - TODO: perhaps prepare a few 'show of hands' question beforehand
+      - TODO: perhaps prepare a few 'show of hands' question beforehand
   - Specific RPP design challenges (P. Kowalik), 10 minutes
  
 ### When applicable (meaning; when there are relevant updates)
