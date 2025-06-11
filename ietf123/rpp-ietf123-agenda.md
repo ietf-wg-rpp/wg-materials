@@ -28,7 +28,7 @@
 * Marco (onsite)
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
-* J. Gould (?)
+* J. Gould (remote)
 
 ### Document Status
 
