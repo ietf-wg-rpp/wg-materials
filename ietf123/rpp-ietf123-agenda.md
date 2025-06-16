@@ -58,7 +58,7 @@
     <!-- Including a few 'show of hands' questions -->
 * Other:
   - Specific RPP design challenges (P. Kowalik), 10 minutes
-    <!-- TODO: move up ?? -->
+    > ⚠️ TODO: move up - perhaps as part of the Hackathon update?
 
 #### 🎤 AOB
 * Closing remarks (chairs), 2 minutes
