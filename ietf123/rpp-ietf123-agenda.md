@@ -18,30 +18,30 @@
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
 * [Upload Slides](https://datatracker.ietf.org/meeting/123/session/rpp)
 -->
-### Chairs
+#### Chairs
 
 * [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
 * [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
 
-### Presenters
+#### Presenters
 * Gavin (onsite?)
 * Marco (onsite)
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
 * J. Gould (remote)
 
-### Document Status
+#### Document Status
 
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/rpp-document-status.md)
   
-## Agenda
+### Agenda
 
-### Administrivia
+#### 📋 Administrivia
 
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
 
-### Current Working Group Business
+#### 🛠️ Current Working Group Business
 * WG Operation
   - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
   - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
@@ -50,26 +50,29 @@
   - Tiger Team update (J. Gould), 10-15 minutes <!-- plus 5 mins slack ? -->
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
-  - Requirements I-D (M. Wullink + P. Kowalik ?), 70 minutes
-    - CENTR Jamoberee update (M. Wullink), 10 minutes (this depends on what there is to report, could also about a different topic, in which case we'll put it in another block)
-    - Further in depth discussion about requirements / open mic, 60 minutes
-      - TODO: perhaps prepare a few 'show of hands' question beforehand
+  - Requirements (M. Wullink + P. Kowalik ?), 70 minutes
+    - CENTR Jamoberee update (M. Wullink), 10 minutes
+    - In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 60 minutes
+    - TODO: perhaps prepare a few 'show of hands' question beforehand
 * Other
   - Specific RPP design challenges (P. Kowalik), 10 minutes
 
-### AOB
-   - closing remarks (chairs), 2 minutes
- 
-### For Consideration
-(in this case meaning; when there are relevant updates)
-  - Architecture I-D (P. Kowalik), 5 minutes
-  - Core I-D (M. Wullink ?), 5-10 minutes  
+#### 🎤 AOB
+* Closing remarks (chairs), 2 minutes
 
-### Time Permitting
+<!-- 
+#### 💡 For Consideration
+* I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) (P. Kowalik), 5 minutes
+* I-D: [draft-rpp-core](https://datatracker.ietf.org/doc/draft-rpp-core/) (M. Wullink ?), 5-10 minutes
+* I-D: [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) (S. Bortzmeyer ?), x minutes  
+(only when there are relevant updates)
 
-* TBD
+#### ⌛️ Time Permitting
 
-#### Relevant reading material
+* Nothing so far
+
+-->
+#### 🔎 Relevant reading material
 
 * From the mailinglist:
   - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) - discussion on mailing list [here](https://mailarchive.ietf.org/arch/msg/rpp/VZlQ1HD-MC-e5rsUqn9pE875vgk/)
