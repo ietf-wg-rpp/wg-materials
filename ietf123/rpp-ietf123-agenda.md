@@ -43,20 +43,20 @@
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
 
 #### 🛠️ Current Working Group Business
-* WG Operation
+* WG Operation:
   - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
   - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
-* Various updates
+* Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/123/hackathon#restful-provisioning-protocol-rpp) recap (P. Kowalik), 5 minutes
   - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10-15 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
-* Deliverables / Milestones; current status and active documents
+* Deliverables / Milestones; current status and active documents:
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) (P. Kowalik), 5 minutes
-  - Requirements
+  - Requirements;
     + CENTR Jamboree update (M. Wullink ?), 10 minutes
     + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, (P. Kowalik ?), 60 minutes
     <!-- Including a few 'show of hands' questions -->
-* Other
+* Other:
   - Specific RPP design challenges (P. Kowalik), 10 minutes
 
 #### 🎤 AOB
