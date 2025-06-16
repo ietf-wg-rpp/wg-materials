@@ -3,7 +3,7 @@
 
 ## IETF 123 - Preliminary agenda (work in progress)
 
-* Date: ?? July 2025
+* Date: ?? July 2025 (to be [announced on June 20, 2025](https://datatracker.ietf.org/meeting/important-dates/))
 
 <!--
 * Time: ??:?? - ??:?? CEST (??:?? - ??:?? UTC)
