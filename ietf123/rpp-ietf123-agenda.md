@@ -52,12 +52,13 @@
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents:
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) (P. Kowalik), 5 minutes
-  - Requirements;
-    + CENTR Jamboree update (M. Wullink ?), 10 minutes
-    + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, (P. Kowalik ?), 60 minutes
+  - Requirements (M Wullink + P. Kowalik);
+    + CENTR Jamboree update, 10 minutes
+    + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 60 minutes
     <!-- Including a few 'show of hands' questions -->
 * Other:
   - Specific RPP design challenges (P. Kowalik), 10 minutes
+    <!-- TODO: move up ?? -->
 
 #### 🎤 AOB
 * Closing remarks (chairs), 2 minutes
