@@ -44,8 +44,8 @@
 
 #### 🛠️ Current Working Group Business
 * WG Operation:
-  - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
-  - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
+  - Tools and working group process; recap and evaluation (Marco), 5 minutes
+  - Deliverables / Milestones; roadmap (Gavin), 5 minutes
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/123/hackathon#restful-provisioning-protocol-rpp) recap (P. Kowalik), 5 minutes
   - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10-15 minutes
