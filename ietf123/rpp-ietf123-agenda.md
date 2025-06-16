@@ -74,7 +74,7 @@
 
 -->
 ---
-### 🔎 Relevant reading material
+### 📚 Relevant reading material
 
 * From the mailinglist:
   - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) - discussion on mailing list [here](https://mailarchive.ietf.org/arch/msg/rpp/VZlQ1HD-MC-e5rsUqn9pE875vgk/)
