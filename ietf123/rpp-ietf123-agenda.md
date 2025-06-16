@@ -46,7 +46,7 @@
   - Tools and working group process; recap and evaluation (Marco), 5-10 minutes
   - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
 * Various updates
-  - Hackathon recap (P. Kowalik), 5 minutes
+  - [Hackathon](https://wiki.ietf.org/en/meeting/123/hackathon#restful-provisioning-protocol-rpp) recap (P. Kowalik), 5 minutes
   - Tiger Team update (J. Gould), 10-15 minutes <!-- plus 5 mins slack ? -->
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
