@@ -29,7 +29,7 @@
 
 ##### Meetings: https://datatracker.ietf.org/wg/rpp/meetings/
 
-##### Charter: https://datatracker.ietf.org/doc/charter-ietf-rpp/
+##### Charter and deliverables: https://datatracker.ietf.org/doc/charter-ietf-rpp/
 
 ##### Contributing:  https://github.com/ietf-wg-rpp/wg-materials/blob/master/CONTRIBUTING.md
 
