@@ -52,7 +52,7 @@
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
   - Requirements I-D (M. Wullink + P. Kowalik), 70 minutes
-    - CENTR Jamoberee update (M. Wullink ?), 10 minutes
+    - CENTR Jamboree update (M. Wullink ?), 10 minutes
     - In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, (P. Kowalik ?), 60 minutes
     - TODO: perhaps prepare a few 'show of hands' question beforehand
 * Other
