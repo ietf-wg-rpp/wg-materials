@@ -37,6 +37,7 @@
 
 ---
 ### Agenda
+> 🚧 TODO: currently exceeds 120 minutes
 
 #### 📋 Administrivia
 
