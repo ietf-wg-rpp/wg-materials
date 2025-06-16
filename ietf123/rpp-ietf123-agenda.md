@@ -24,7 +24,7 @@
 * [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
 
 #### Presenters
-* Gavin (onsite?)
+* Gavin (?)
 * Marco (onsite)
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
