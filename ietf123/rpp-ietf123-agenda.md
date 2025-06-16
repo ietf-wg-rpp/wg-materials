@@ -34,7 +34,8 @@
 
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/rpp-document-status.md)
-  
+
+---
 ### Agenda
 
 #### 📋 Administrivia
@@ -50,9 +51,9 @@
   - Tiger Team update (J. Gould), 10-15 minutes <!-- plus 5 mins slack ? -->
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
-  - Requirements (M. Wullink + P. Kowalik ?), 70 minutes
-    - CENTR Jamoberee update (M. Wullink), 10 minutes
-    - In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 60 minutes
+  - Requirements I-D (M. Wullink + P. Kowalik), 70 minutes
+    - CENTR Jamoberee update (M. Wullink ?), 10 minutes
+    - In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, (P. Kowalik ?), 60 minutes
     - TODO: perhaps prepare a few 'show of hands' question beforehand
 * Other
   - Specific RPP design challenges (P. Kowalik), 10 minutes
@@ -72,7 +73,8 @@
 * Nothing so far
 
 -->
-#### 🔎 Relevant reading material
+---
+### 🔎 Relevant reading material
 
 * From the mailinglist:
   - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) - discussion on mailing list [here](https://mailarchive.ietf.org/arch/msg/rpp/VZlQ1HD-MC-e5rsUqn9pE875vgk/)
