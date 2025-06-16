@@ -23,17 +23,17 @@ Area: [ART](https://datatracker.ietf.org/group/art/about/) (art-ads@ietf.org)
   - [Eric Skoglund](https://www.linkedin.com/in/eric-skoglund-69433390/) (Internet Infrastructure Foundation)
   - [Maarten Wullink](https://datatracker.ietf.org/person/maarten.wullink@sidn.nl) (SIDN)
 
-##### Mailing List: http://www.ietf.org/mailman/listinfo/rpp
+##### Wiki: https://wiki.ietf.org/group/rpp/
+
+##### Mailing List: http://www.ietf.org/mailman/listinfo/rpp/
+
+##### Meetings: https://datatracker.ietf.org/wg/rpp/meetings/
+
+##### Charter: https://datatracker.ietf.org/doc/charter-ietf-rpp/
 
 ##### Contributing:  https://github.com/ietf-wg-rpp/wg-materials/blob/master/CONTRIBUTING.md
 
 <!-- #### Document Status: https://github.com/ietf-wg-rpp/wg-materials/blob/master/rpp-document-status.md -->
-
-##### Charter: https://datatracker.ietf.org/doc/charter-ietf-rpp/
-
-##### Wiki: https://wiki.ietf.org/group/rpp
-
-##### Meetings: https://datatracker.ietf.org/wg/rpp/meetings/
 
 ## 🔔 Note Well
 
