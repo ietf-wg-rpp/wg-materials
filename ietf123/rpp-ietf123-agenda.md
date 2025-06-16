@@ -48,10 +48,11 @@
   - Deliverables / Milestones; roadmap (Gavin), 5-10 minutes
 * Various updates
   - [Hackathon](https://wiki.ietf.org/en/meeting/123/hackathon#restful-provisioning-protocol-rpp) recap (P. Kowalik), 5 minutes
-  - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10-15 minutes <!-- plus 5 mins slack ? -->
+  - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10-15 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents
-  - Requirements I-D (M. Wullink + P. Kowalik), 70 minutes
+  - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) (P. Kowalik), 5 minutes
+  - Requirements
     + CENTR Jamboree update (M. Wullink ?), 10 minutes
     + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, (P. Kowalik ?), 60 minutes
     <!-- Including a few 'show of hands' questions -->
@@ -63,7 +64,6 @@
 
 <!-- 
 #### 💡 For Consideration
-* I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) (P. Kowalik), 5 minutes
 * I-D: [draft-rpp-core](https://datatracker.ietf.org/doc/draft-rpp-core/) (M. Wullink ?), 5-10 minutes
 * I-D: [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) (S. Bortzmeyer ?), x minutes  
 (only when there are relevant updates)
