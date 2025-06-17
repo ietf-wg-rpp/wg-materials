@@ -1,5 +1,5 @@
 # IETF 122 - Bangkok
-Current status: Session Planned
+Current status: <!-- Session Planned --> [Archived](https://datatracker.ietf.org/meeting/122/proceedings).
 
 <!--
 (see: https://datatracker.ietf.org/doc/html/rfc2418#section-3.1)
