@@ -49,7 +49,7 @@
   - Deliverables / Milestones; roadmap (Gavin), 5 minutes
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/123/hackathon#restful-provisioning-protocol-rpp) recap (P. Kowalik), 5 minutes
-  - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10-15 minutes
+  - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents:
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) (P. Kowalik), 5 minutes
