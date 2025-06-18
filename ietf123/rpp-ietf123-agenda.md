@@ -37,7 +37,7 @@
 
 ---
 ### Agenda
-> 🚧 TODO: currently exceeds 120 minutes
+> 🚧 work in progress
 
 #### 📋 Administrivia
 
@@ -55,7 +55,7 @@
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) (P. Kowalik), 5 minutes
   - Requirements (M Wullink + P. Kowalik);
     + CENTR Jamboree update, 10 minutes
-    + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 50 minutes
+    + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 60 minutes
     <!-- Including a few 'show of hands' questions -->
 * Other:
   - Specific RPP design challenges (P. Kowalik), 10 minutes
