@@ -62,7 +62,7 @@
     > ⚠️ TODO: move up - perhaps as part of the Hackathon update?
 
 #### 🎤 AOB
-* Closing remarks (chairs), 2 minutes
+* Closing remarks (Chairs), 2 minutes
 
 <!-- 
 #### 💡 For Consideration
