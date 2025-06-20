@@ -49,6 +49,7 @@
   - Deliverables / Milestones; roadmap (Gavin), 5 minutes
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/123/hackathon#restful-provisioning-protocol-rpp) recap (P. Kowalik), 5 minutes
+  - [Specific RPP design challenges](https://datatracker.ietf.org/meeting/122/materials/slides-122-rpp-specific-rpp-design-challenges-00) (P. Kowalik), 10 minutes
   - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents:
@@ -57,9 +58,6 @@
     + CENTR Jamboree Recap, 10 minutes
     + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 60 minutes
     <!-- Including a few 'show of hands' questions -->
-* Other:
-  - Specific RPP design challenges (P. Kowalik), 10 minutes
-    > ⚠️ TODO: move up - perhaps as part of the Hackathon update?
 
 #### 🎤 AOB
 * Closing remarks (Chairs), 2 minutes
