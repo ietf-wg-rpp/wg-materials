@@ -74,11 +74,14 @@
 
 -->
 ---
-### 📚 Relevant reading material
+### 📚 (Possibly) relevant reading material
 
 * From the mailinglist:
   - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) - discussion on mailing list [here](https://mailarchive.ietf.org/arch/msg/rpp/VZlQ1HD-MC-e5rsUqn9pE875vgk/)
-  - [JSON Structure discussion](https://mailarchive.ietf.org/arch/msg/rpp/ZC0_a6igfKdHjK4pnZN4TVoN6RM/) 
+  - [JSON Structure discussion](https://mailarchive.ietf.org/arch/msg/rpp/ZC0_a6igfKdHjK4pnZN4TVoN6RM/)
+
+* Per request (under review)
+  - [DNS data mapping](https://github.com/christian-simmen/draft-simmen-rpp-dns-data)
 
 * IETF122:
   - https://datatracker.ietf.org/meeting/122/materials/agenda-122-rpp
