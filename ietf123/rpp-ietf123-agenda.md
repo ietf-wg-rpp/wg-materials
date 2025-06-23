@@ -50,6 +50,7 @@
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/123/hackathon#restful-provisioning-protocol-rpp) recap (P. Kowalik), 5 minutes
   - [Specific RPP design challenges](https://datatracker.ietf.org/meeting/122/materials/slides-122-rpp-specific-rpp-design-challenges-00) (P. Kowalik), 10 minutes
+  <!-- - [DNS data mapping](https://github.com/christian-simmen/draft-simmen-rpp-dns-data) sharing idea (C. Simmen), 5-10 minutes UNDER REVIEW -->
   - [Tiger Team](https://github.com/ietf-wg-rpp/wg-materials/blob/main/README.md#tiger-team) update (J. Gould), 10 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents:
