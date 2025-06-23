@@ -1,7 +1,7 @@
 
 # RESTful Provisioning Protocol (RPP) Working Group
 
-## IETF 123 - Preliminary agenda (work in progress)
+## IETF 123 - Draft agenda (work in progress)
 
 * Date: 25 July 2025 <!-- (to be [announced on June 20, 2025](https://datatracker.ietf.org/meeting/important-dates/)) -->
 
