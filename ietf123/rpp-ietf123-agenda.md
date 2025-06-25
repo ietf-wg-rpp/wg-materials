@@ -74,7 +74,7 @@
 
 #### 🎤 AOB
 * Closing remarks (Chairs), 2 minutes
-* 
+  
 ---
 ### 📚 Potentially relevant reading material
 
