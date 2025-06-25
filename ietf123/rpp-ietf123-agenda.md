@@ -82,7 +82,7 @@
   - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) - discussion on mailing list [here](https://mailarchive.ietf.org/arch/msg/rpp/VZlQ1HD-MC-e5rsUqn9pE875vgk/)
   - [JSON Structure discussion](https://mailarchive.ietf.org/arch/msg/rpp/ZC0_a6igfKdHjK4pnZN4TVoN6RM/)
 
-* Per request (under review)
+* Per request 
   - [DNS data mapping](https://github.com/christian-simmen/draft-simmen-rpp-dns-data)
 
 * IETF122:
