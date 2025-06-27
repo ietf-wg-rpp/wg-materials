@@ -5,6 +5,8 @@
 > Preliminary [agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/123/materials/agenda-123-rpp) 
 <!-- > Planning and preparations in progress. -->
 
+See: https://datatracker.ietf.org/meeting/123/session/rpp
+
 <!-- See: https://datatracker.ietf.org/meeting/important-dates/#IETF123 -->
 
 <!--
