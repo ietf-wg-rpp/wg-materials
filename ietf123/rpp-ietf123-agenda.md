@@ -1,22 +1,19 @@
 
 # RESTful Provisioning Protocol (RPP) Working Group
 
-## IETF 123 - WG Session (work in progress)
+* [Upload Slides](https://datatracker.ietf.org/meeting/123/session/rpp)
 
-* Date: 25 July 2025 (but may be re-scheduled!) <!-- (to be [announced on June 20, 2025](https://datatracker.ietf.org/meeting/important-dates/)) -->
+## IETF 123 - WG Session
 
+* Date: 25 July 2025  <!-- (to be [announced on June 20, 2025](https://datatracker.ietf.org/meeting/important-dates/)) -->
 * Time: 14:30 - 16:30 CEST (12:30 - 14:30 UTC)
 * Room: Hidalgo
 
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf123/?session=34200) full client (with video)
 * [OnSiteTool](https://meetecho.ietf.org/lite/?session=34200)
-
-<!-- * [Minutes](https://codimd.ietf.org/notes-ietf-123-rpp) -->
-<!--
-* [Published minutes](https://notes.ietf.org/s/notes-ietf-123-rpp)
--->
+* [Minutes](https://notes.ietf.org/notes-ietf-123-rpp) 
+<!-- * [Published minutes](https://notes.ietf.org/s/notes-ietf-123-rpp) -->
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
-* [Upload Slides](https://datatracker.ietf.org/meeting/123/session/rpp)
 
 #### Chairs
 
