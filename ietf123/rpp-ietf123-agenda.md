@@ -8,16 +8,16 @@
 * Time: 14:30 - 16:30 CEST (12:30 - 14:30 UTC)
 * Room: Hidalgo
 
-<!--
-* [MeetEcho](https://meetings.conf.meetecho.com/ietf123/?session=??) full client (with video)
-* [OnSiteTool](https://meetings.conf.meetecho.com/onsite123/?session=??)
--->
+* [MeetEcho](https://meetings.conf.meetecho.com/ietf123/?session=34200) full client (with video)
+* [OnSiteTool](https://meetecho.ietf.org/lite/?session=34200)
+
 <!-- * [Minutes](https://codimd.ietf.org/notes-ietf-123-rpp) -->
 <!--
 * [Published minutes](https://notes.ietf.org/s/notes-ietf-123-rpp)
+-->
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
 * [Upload Slides](https://datatracker.ietf.org/meeting/123/session/rpp)
--->
+
 #### Chairs
 
 * [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
