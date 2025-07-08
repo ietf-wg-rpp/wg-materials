@@ -67,7 +67,7 @@
 
 #### ⌛️ Time Permitting
 
-* [DNS data mapping](https://github.com/christian-simmen/draft-simmen-rpp-dns-data) sharing idea (C. Simmen), 5-10 minutes (conditionally)
+* I-D: [draft-simmen-rpp-dns-data](https://github.com/christian-simmen/draft-simmen-rpp-dns-data) (C. Simmen), 5-10 minutes (conditionally)
 
 
 #### 🎤 AOB
