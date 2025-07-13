@@ -79,6 +79,7 @@
 * From the mailinglist:
   - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) - discussion on mailing list [here](https://mailarchive.ietf.org/arch/msg/rpp/VZlQ1HD-MC-e5rsUqn9pE875vgk/)
   - [JSON Structure discussion](https://mailarchive.ietf.org/arch/msg/rpp/ZC0_a6igfKdHjK4pnZN4TVoN6RM/)
+  - [RPP to EPP adapter - py-rpp](https://mailarchive.ietf.org/arch/browse/rpp/?qdr=w) - Github: https://github.com/SIDN/py-rpp
 
 * Per request 
   - [DNS data mapping](https://github.com/christian-simmen/draft-simmen-rpp-dns-data)
