@@ -53,9 +53,8 @@
 * Deliverables / Milestones; current status and active documents:
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) - quick update (P. Kowalik), 5 minutes
   - Requirements (M Wullink + P. Kowalik);
-    + CENTR Jamboree Recap, 10 minutes
-    + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 50-60 minutes
-    <!-- Including a few 'show of hands' questions -->
+    + In-depth discussion about [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) / open mic, 60 minutes
+    <!-- Including a few 'show of hands' questions and CENTR Jamboree Recap -->
 
 <!-- 
 #### 💡 For Consideration
