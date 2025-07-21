@@ -7,7 +7,7 @@
 
 * Date: 25 July 2025  <!-- (to be [announced on June 20, 2025](https://datatracker.ietf.org/meeting/important-dates/)) -->
 * Time: 14:30 - 16:30 CEST (12:30 - 14:30 UTC)
-* Room: Hidalgo
+* Room: [Hidalgo](https://datatracker.ietf.org/meeting/123/floor-plan?room=hidalgo)
 
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf123/?session=34200) full client (with video)
 * [OnSiteTool](https://meetecho.ietf.org/lite/?session=34200)
