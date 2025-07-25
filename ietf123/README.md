@@ -2,7 +2,8 @@
 19 Jul 2025 - 25 Jul 2025
 
 > ### ℹ️ Current status:
-[Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/123/materials/agenda-123-rpp) 
+> Finished - working on proceedings
+<!-- [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/123/materials/agenda-123-rpp) -->
 <!-- Preliminary agenda -->
 <!-- > Planning and preparations in progress. -->
 
