@@ -3,11 +3,14 @@
 
 > ### ℹ️ Current status:
 > Finished - working on proceedings
+
+Notes: https://notes.ietf.org/s/notes-ietf-123-rpp
+
 <!-- [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/123/materials/agenda-123-rpp) -->
 <!-- Preliminary agenda -->
 <!-- > Planning and preparations in progress. -->
 
-See: https://datatracker.ietf.org/meeting/123/session/rpp
+Also see: https://datatracker.ietf.org/meeting/123/session/rpp
 
 <!-- See: https://datatracker.ietf.org/meeting/important-dates/#IETF123 -->
 
