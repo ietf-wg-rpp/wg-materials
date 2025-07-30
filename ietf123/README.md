@@ -23,3 +23,7 @@ see: https://datatracker.ietf.org/doc/html/rfc2418#section-6
 
 Hackathon Results Presentations:
 https://youtu.be/ShjlUAN6FjI?si=tfJraWrK12IYuCVk&t=5312
+
+Poll results:
+https://meetecho-player.ietf.org/playout/?session=IETF123-RPP-20250725-1230
+(Polls tab)
