@@ -48,7 +48,7 @@
 
 #### 🛠️ Current Working Group Business
 * WG Operation:
-  - Deliverables / Milestones; roadmap (Gavin), 5 minutes
+  - Deliverables / Milestones; roadmap (Chairs), 5 minutes
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (N.N), 5 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
