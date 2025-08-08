@@ -77,6 +77,8 @@
   - https://github.com/ietf-wg-rpp/wg-materials/tree/main/ietf123
   - https://datatracker.ietf.org/meeting/123/materials/agenda-123-rpp
   - https://datatracker.ietf.org/meeting/123/session/rpp/
-  - https://notes.ietf.org/s/notes-ietf-123-rpp
-  - https://www.ietf.org/proceedings/123/bluesheets/bluesheets-123-rpp-202503170600-00.txt
+  - https://datatracker.ietf.org/meeting/123/proceedings
+  - Minutes: https://datatracker.ietf.org/meeting/123/materials/minutes-123-rpp-202507251230-00
+  - https://datatracker.ietf.org/meeting/123/session/34200/attendance
+  - 
 
