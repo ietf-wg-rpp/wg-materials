@@ -12,8 +12,8 @@
 
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf123/?session=34200) full client (with video)
 * [OnSiteTool](https://meetecho.ietf.org/lite/?session=34200)
-* [Minutes](https://notes.ietf.org/notes-ietf-123-rpp) 
-<!-- * [Published minutes](https://notes.ietf.org/s/notes-ietf-123-rpp) -->
+<!-- * [Minutes](https://notes.ietf.org/notes-ietf-123-rpp) -->
+* [Published minutes](https://notes.ietf.org/s/notes-ietf-123-rpp)
 * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp)
 
 #### Chairs
