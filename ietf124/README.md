@@ -1,5 +1,7 @@
-# IETF 124 - Montreald
+# IETF 124 - Montreal
 1 Nov 2025 - 7 Nov 2025
+
+90 mins.
 
 > ### ℹ️ Current status:
 > In preperation
