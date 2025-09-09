@@ -7,7 +7,7 @@
 ## IETF 124 - WG Session
 
 * Date: xx Nov 2025  <!-- (to be [announced on Oct 3,2025](https://datatracker.ietf.org/meeting/important-dates/#IETF124)) -->
-* Time: xx:xx - xx:xx EDT (xx:xx - xx:xx UTC)
+* Time: xx:xx - xx:xx EDT (xx:xx - xx:xx UTC) <!-- 90 minutes requested -->
 * Room: [TBD]<!-- (https://datatracker.ietf.org/meeting/124/floor-plan?room=xxxx) -->
 
 <!--
@@ -20,18 +20,12 @@
 
 #### Chairs
 
-* [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org)
-* [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl)
+* [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org) (?)
+* [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl) (onsite)
 
 #### Presenters
-* Gavin (?)
-* Marco (onsite)
 * P. Kowalik (?)
 * M. Wullink (onsite)
-<!--
-* J. Gould (remote)
-* C. Simmen (conditionally,onsite)
--->
 
 #### Document Status
 
