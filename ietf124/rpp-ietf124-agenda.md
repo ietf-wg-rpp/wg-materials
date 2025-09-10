@@ -31,6 +31,7 @@
 
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 <!-- * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/rpp-document-status.md) -->
+* https://datatracker.ietf.org/doc/active/#id-rpp
 
 ---
 ### Agenda
