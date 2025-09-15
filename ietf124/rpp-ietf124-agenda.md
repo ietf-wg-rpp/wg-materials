@@ -46,6 +46,7 @@
   - Deliverables / Milestones; roadmap (Chairs), 5 minutes
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (N.N), 5 minutes
+  - Final recommendations from the EPP Extensibility and Extension Tiger Team (J. Gould), 5-10 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 * Deliverables / Milestones; current status and active documents:
   - I-D: TBD 
