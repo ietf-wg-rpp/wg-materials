@@ -52,7 +52,7 @@
   - I-D: TBD 
 
 #### 💡 For Consideration
-  - TBD
+  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) (15mins)
 
 #### ⌛️ Time Permitting
   - TBD
