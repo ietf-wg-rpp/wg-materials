@@ -1,7 +1,7 @@
 
 # RESTful Provisioning Protocol (RPP) Working Group
 
-<!-- * [Upload Slides](https://datatracker.ietf.org/meeting/124/session/rpp) -->
+* [Upload Slides](https://datatracker.ietf.org/meeting/124/session/rpp)
 <!-- * [Upload Slides](https://datatracker.ietf.org/meeting/124/session/xxxxxx/slides) -->
 
 ## IETF 124 - WG Session
@@ -24,8 +24,10 @@
 * [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl) (onsite)
 
 #### Presenters
-* P. Kowalik (?)
+* P. Kowalik (onsite)
 * M. Wullink (onsite)
+* J. Gould (?)
+* C. Simmen ? (onsite>
 
 #### Document Status
 
@@ -45,18 +47,20 @@
 * WG Operation:
   - <!-- Deliverables / Milestones; roadmap (Chairs), 5 minutes -->
 * Various updates:
-  - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (N.N), 5 minutes
+  - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (?), 5 minutes <!-- Pawel or Maarten -->
 * Deliverables / Milestones; current status and active documents:
   - Final recommendations from the EPP Extensibility and Extension Tiger Team (J. Gould), 10 minutes
-  - Open mic for clarifying questions/discussion, 10 minutes
-  - Requirements-draft -02 (?) version delta to -01 (N.N), 10 minutes
-  - Open mic for clarifying questions/discussion, 10 minutes
+    - Open mic for clarifying questions/discussion, 10 minutes
+  - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta to -01 (?), 10 minutes <!-- Maarten or Pawel -->
+    - Open mic for clarifying questions/discussion, 10 minutes
+
+<!-- TO DECIDE: when do we put them under 'Deliverables / Milestones; current status and active documents', when under 'For Consideration' ?? -->
 
 #### 💡 For Consideration
-  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) (Pawel) 15mins
-  - I-D: [draft-wullink-rpp-core] -02 version discussion (N.N.), 10 mins
-  <!-- - Update draft Christian ? 10 mins -->
-  <!-- - Architecture -03 adoption? Pawel, ~10 mins -->
+  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) (P. Kowalik) 15 minutes
+  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) -02 version discussion (M. Wullink?), 10 minutes
+  - I-D: [draft-simmen-rpp-dns-data](https://github.com/christian-simmen/draft-simmen-rpp-dns-data) (C. Simmen), 5-10 minutes (conditionally)
+  - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) - Adoption? (P. Kowalik), 5 minutes
 
 #### ⌛️ Time Permitting
   - TBD
