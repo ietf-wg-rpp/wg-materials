@@ -53,7 +53,8 @@
   - Open mic for clarifying questions/discussion, 10 minutes
 
 #### 💡 For Consideration
-  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) (15mins)
+  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) (Pawel) 15mins
+  - I-D: [draft-wullink-rpp-core] -02 version discussion (N.N.), 10 mins
   <!-- - Update draft Christian ? 10 mins -->
   <!-- - Architecture -03 adoption? Pawel, ~10 mins -->
 
