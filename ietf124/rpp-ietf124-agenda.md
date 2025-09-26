@@ -45,14 +45,17 @@
 * WG Operation:
   - <!-- Deliverables / Milestones; roadmap (Chairs), 5 minutes -->
 * Various updates:
-  - <!-- [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (N.N), 5 minutes -->
-  - Final recommendations from the EPP Extensibility and Extension Tiger Team (J. Gould), 5-10 minutes
-  - Open mic for clarifying questions/discussion, 5 minutes
+  - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (N.N), 5 minutes
 * Deliverables / Milestones; current status and active documents:
-  - I-D: TBD 
+  - Final recommendations from the EPP Extensibility and Extension Tiger Team (J. Gould), 10 minutes
+  - Open mic for clarifying questions/discussion, 10 minutes
+  - Requirements-draft -02 (?) version delta to -01 (N.N), 10 minutes
+  - Open mic for clarifying questions/discussion, 10 minutes
 
 #### 💡 For Consideration
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) (15mins)
+  <!-- - Update draft Christian ? 10 mins -->
+  <!-- - Architecture -03 adoption? Pawel, ~10 mins -->
 
 #### ⌛️ Time Permitting
   - TBD
