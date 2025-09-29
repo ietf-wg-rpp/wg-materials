@@ -52,6 +52,7 @@
   - Final recommendations from the EPP Extensibility and Extension Tiger Team (J. Gould), 10 minutes
     - Open mic for clarifying questions/discussion, 10 minutes
   - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta to -01 (?), 10 minutes <!-- Maarten or Pawel -->
+    - ⚠️ Ready for WG consensus ?! (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
     - Open mic for clarifying questions/discussion, 10 minutes
 
 <!-- TO DECIDE: when do we put them under 'Deliverables / Milestones; current status and active documents', when under 'For Consideration' ?? -->
