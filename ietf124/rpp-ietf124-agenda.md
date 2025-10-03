@@ -26,8 +26,8 @@
 #### Presenters
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
-* J. Gould (?)
-* C. Simmen ? (onsite>
+* J. Gould (onsite)
+* C. Simmen (onsite>
 
 #### Document Status
 
