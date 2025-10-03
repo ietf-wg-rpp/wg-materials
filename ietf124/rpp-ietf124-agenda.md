@@ -27,7 +27,7 @@
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
 * J. Gould (onsite)
-* C. Simmen (onsite>
+* C. Simmen (onsite)
 
 #### Document Status
 
