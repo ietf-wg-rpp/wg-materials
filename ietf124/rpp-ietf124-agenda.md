@@ -20,7 +20,7 @@
 
 #### Chairs
 
-* [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org) (?)
+* [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org) (remote)
 * [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl) (onsite)
 
 #### Presenters
