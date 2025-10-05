@@ -7,7 +7,7 @@
 ## IETF 124 - WG Session
 
 * Date: Thu 06 Nov 2025  <!-- (to be [announced on Oct 3,2025](https://datatracker.ietf.org/meeting/important-dates/#IETF124)) -->
-* Time: 09:30 - 11:00 EDT (14:30 - 16:00 UTC) <!-- 90 minutes requested -->
+* Time: 09:30 - 11:00 EST (14:30 - 16:00 UTC) <!-- 90 minutes requested -->
 * Room: St. Denis<!-- (https://datatracker.ietf.org/meeting/124/floor-plan?room=xxxx) -->
 
 <!--
