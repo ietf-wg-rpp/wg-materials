@@ -6,9 +6,9 @@
 
 ## IETF 124 - WG Session
 
-* Date: xx Nov 2025  <!-- (to be [announced on Oct 3,2025](https://datatracker.ietf.org/meeting/important-dates/#IETF124)) -->
-* Time: xx:xx - xx:xx EDT (xx:xx - xx:xx UTC) <!-- 90 minutes requested -->
-* Room: [TBD]<!-- (https://datatracker.ietf.org/meeting/124/floor-plan?room=xxxx) -->
+* Date: Thu 06 Nov 2025  <!-- (to be [announced on Oct 3,2025](https://datatracker.ietf.org/meeting/important-dates/#IETF124)) -->
+* Time: 09:30 - 11:00 EDT (14:30 - 16:00 UTC) <!-- 90 minutes requested -->
+* Room: St. Denis<!-- (https://datatracker.ietf.org/meeting/124/floor-plan?room=xxxx) -->
 
 <!--
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf124/?session=34200) full client (with video)
