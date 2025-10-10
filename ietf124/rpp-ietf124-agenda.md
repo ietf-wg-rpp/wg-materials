@@ -23,6 +23,10 @@
 * [Gavin Brown](https://datatracker.ietf.org/person/gavin.brown@icann.org) (remote)
 * [Marco Davids](https://datatracker.ietf.org/person/marco.davids@sidn.nl) (onsite)
 
+#### Delegate
+
+* [Andy Newton](https://datatracker.ietf.org/person/andy@hxr.us) (onsite)
+
 #### Presenters
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
