@@ -30,7 +30,8 @@
 #### Presenters
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
-* J. Gould (onsite)
+* <!-- J. Gould (onsite) -->
+* E. Skoglund (remote) <!-- Eric will replace Jim ?? -->
 * C. Simmen (onsite)
 
 #### Document Status
@@ -53,7 +54,7 @@
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (?), 5 minutes <!-- Pawel or Maarten -->
 * Deliverables / Milestones; current status and active documents:
-  - Final recommendations from the EPP Extensibility and Extension Tiger Team (J. Gould), 10 minutes
+  - Final recommendations from the EPP Extensibility and Extension Tiger Team (E. Skoglund), 10 minutes
     - Open mic for clarifying questions/discussion, 5 minutes
   - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta to -01 (?), 10 minutes <!-- Maarten or Pawel -->
     - ⚠️ Ready for WG consensus ?! (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
