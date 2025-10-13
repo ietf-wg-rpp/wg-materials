@@ -30,8 +30,7 @@
 #### Presenters
 * P. Kowalik (onsite)
 * M. Wullink (onsite)
-<!-- * J. Gould (onsite) -->
-* E. Skoglund (remote) <!-- Eric will replace Jim ?? -->
+* E. Skoglund (remote) <!-- * J. Gould (onsite) --> <!-- Eric will replace Jim ?? -->
 * C. Simmen (onsite)
 
 #### Document Status
