@@ -53,7 +53,7 @@
 * Deliverables / Milestones; current status and active documents:
   - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta from -01 (M. Wullink), 10 minutes <!-- Maarten or Pawel -->
     - (Ready for WG consensus / WG last call?) (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
-  - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) version -03 (Adoption?) (P. Kowalik), 5 minutes
+  - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) version -03 delta from -02 (P. Kowalik), 5 minutes
     - (Adopted ?)
   - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) version -02 delta from -01 and discussion discussion (M. Wullink), 10 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
