@@ -83,6 +83,7 @@
   - https://datatracker.ietf.org/meeting/123/session/rpp/
   - https://datatracker.ietf.org/meeting/123/proceedings
   - Minutes: https://datatracker.ietf.org/meeting/123/materials/minutes-123-rpp-202507251230-00
+  - Experimental auto-generated minutes: https://ietfminutes.org/minutes/ietf123/rpp.html
   - Poll results: https://datatracker.ietf.org/doc/polls-123-rpp-202507251430/
   - Attendance: https://datatracker.ietf.org/meeting/123/session/34200/attendance
 
