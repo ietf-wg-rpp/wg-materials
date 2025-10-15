@@ -63,7 +63,7 @@
 
 #### 💡 For Consideration
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) version -00 (P. Kowalik) 15 minutes - **when published**
-  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) -02 version discussion (M. Wullink?), 10 minutes
+  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) -02 version discussion (M. Wullink), 10 minutes
   - I-D: [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/) version -01 ? (C. Simmen), 10 minutes
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) version -03 (Adoption?) (P. Kowalik), 5 minutes
 
