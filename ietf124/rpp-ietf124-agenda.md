@@ -51,11 +51,11 @@
 * WG Operation:
   - <!-- Deliverables / Milestones; roadmap (Chairs), 5 minutes -->
 * Various updates:
-  - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (?), 5 minutes <!-- Pawel or Maarten -->
+  - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes <!-- Pawel or Maarten -->
 * Deliverables / Milestones; current status and active documents:
   - Final recommendations from the EPP Extensibility and Extension Tiger Team (E. Skoglund), 10 minutes
     - Open mic for clarifying questions/discussion, 5 minutes (J. Gould will be present for Q&A)
-  - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta to -01 (?), 10 minutes <!-- Maarten or Pawel -->
+  - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta to -01 (M. Wullink), 10 minutes <!-- Maarten or Pawel -->
     - ⚠️ Ready for WG consensus ?! (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
     - Open mic for clarifying questions/discussion, 5 minutes
 
