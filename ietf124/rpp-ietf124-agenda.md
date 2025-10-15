@@ -6,17 +6,13 @@
 
 ## IETF 124 - WG Session
 
-* Date: Thu 06 Nov 2025  <!-- (to be [announced on Oct 3,2025](https://datatracker.ietf.org/meeting/important-dates/#IETF124)) -->
-* Time: 09:30 - 11:00 EST (14:30 - 16:00 UTC) <!-- 90 minutes requested -->
-* Room: St. Denis<!-- (https://datatracker.ietf.org/meeting/124/floor-plan?room=xxxx) -->
+* 🗓️ Thu 06 Nov 2025 🕤 09:30 - 11:00 EST (14:30 - 16:00 UTC) 📍 Notre Dame
 
-<!--
-* [MeetEcho](https://meetings.conf.meetecho.com/ietf124/?session=34200) full client (with video)
-* [OnSiteTool](https://meetecho.ietf.org/lite/?session=34200)
+* [MeetEcho](https://meetings.conf.meetecho.com/ietf124/?session=34733) full client (with video)
+* [OnSiteTool](https://meetings.conf.meetecho.com/onsite124/?session=34733)
+* [Zulip Chat](https://zulip.ietf.org/#narrow/stream/rpp)
 * [Minutes](https://notes.ietf.org/notes-ietf-124-rpp) 
--->
 <!-- * [Published minutes](https://notes.ietf.org/s/notes-ietf-124-rpp) -->
-<!-- * [Zulip](https://zulip.ietf.org/#narrow/stream/rpp) -->
 
 #### Chairs
 
@@ -41,7 +37,7 @@
 
 ---
 ### Agenda
-> 🚧 work in progress
+<!-- > 🚧 work in progress -->
 
 #### 📋 Administrivia
 
@@ -56,14 +52,12 @@
     - Open mic for clarifying questions/discussion, 5 minutes (J. Gould will be present for Q&A)
 * Deliverables / Milestones; current status and active documents:
   - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta to -01 (M. Wullink), 10 minutes <!-- Maarten or Pawel -->
-    - ⚠️ Ready for WG consensus ?! (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
-    - Open mic for clarifying questions/discussion, 5 minutes
-
-<!-- TO DECIDE: when do we put them under 'Deliverables / Milestones; current status and active documents', when under 'For Consideration' ?? -->
-
-#### 💡 For Consideration
+    - (Ready for WG consensus ?) (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) version -03 (Adoption?) (P. Kowalik), 5 minutes
   - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) -02 version discussion (M. Wullink), 10 minutes
+  - Open mic for clarifying questions/discussion, 5 minutes
+
+#### 💡 For Consideration
   - I-D: [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/) version -01 ? (C. Simmen), 10 minutes
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) version -00 (P. Kowalik) 15 minutes - **when published**
 
