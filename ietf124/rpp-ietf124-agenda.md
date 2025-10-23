@@ -59,7 +59,7 @@
   - Open mic for clarifying questions/discussion, 5 minutes
 
 #### 💡 For Consideration
-  - I-D: [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/) version -01 ? (C. Simmen), 10 minutes
+  - I-D: [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/) version -01 ? (C. Simmen), 10 minutes <!-- https://github.com/christian-simmen/draft-simmen-rpp-dns-data -->
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) version -00 (P. Kowalik) 15 minutes
 #### ⌛️ Time Permitting
   - TBD
