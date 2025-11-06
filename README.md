@@ -23,6 +23,8 @@
   - [Eric Skoglund](https://www.linkedin.com/in/eric-skoglund-69433390/) (Internet Infrastructure Foundation)
   - [Maarten Wullink](https://datatracker.ietf.org/person/maarten.wullink@sidn.nl) (SIDN)
 
+Final recommendations [presented at IETF124](https://datatracker.ietf.org/meeting/124/materials/slides-124-rpp-final-recommendations-from-the-epp-extensibility-and-extension-tiger-team-00).
+
 ##### Wiki: https://wiki.ietf.org/group/rpp/
 
 ##### Mailing List: http://www.ietf.org/mailman/listinfo/rpp/
