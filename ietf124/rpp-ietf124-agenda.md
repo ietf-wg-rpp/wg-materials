@@ -1,8 +1,7 @@
 
 # RESTful Provisioning Protocol (RPP) Working Group
 
-* [Upload Slides](https://datatracker.ietf.org/meeting/124/session/rpp)
-<!-- * [Upload Slides](https://datatracker.ietf.org/meeting/124/session/xxxxxx/slides) -->
+<!-- * [Upload Slides](https://datatracker.ietf.org/meeting/124/session/rpp) -->
 
 ## IETF 124 - WG Session
 
