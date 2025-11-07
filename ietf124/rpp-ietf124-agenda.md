@@ -51,19 +51,19 @@
 * WG Operation:
   - [n/a] <!-- Deliverables / Milestones; roadmap (Chairs), 5 minutes -->
 * Various updates:
-  - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes <!-- Pawel or Maarten -->
+  - [Hackathon](https://wiki.ietf.org/en/meeting/124/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes
   - Final recommendations from the EPP Extensibility and Extension Tiger Team (E. Skoglund), 10 minutes
     - Open mic for clarifying questions/discussion, 5 minutes (J. Gould will be present for Q&A)
 * Deliverables / Milestones; current status and active documents:
-  - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta from -01 (M. Wullink), 10 minutes <!-- Maarten or Pawel -->
+  - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta from -01 (M. Wullink), 10 minutes
     - (Ready for WG consensus / WG last call?) (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
   - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) version -03 delta from -02 (P. Kowalik), 5 minutes
-    - (Adopted ? If so, rename! ⚠️)
+    - (Adopted)
   - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) version -03 delta from -01 and discussion discussion (M. Wullink), 10 minutes
   - Open mic for clarifying questions/discussion, 5 minutes
 
 #### 💡 For Consideration
-  - I-D: [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/) version -01 ? (C. Simmen), 10 minutes <!-- https://github.com/christian-simmen/draft-simmen-rpp-dns-data -->
+  - I-D: [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/) version -01 (C. Simmen), 10 minutes <!-- https://github.com/christian-simmen/draft-simmen-rpp-dns-data -->
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) version -01 (P. Kowalik) 15 minutes
 #### ⌛️ Time Permitting
   - TBD
