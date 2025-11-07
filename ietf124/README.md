@@ -5,7 +5,9 @@
 
 > ### ℹ️ Current status:
 <!-- > In preperation -->
+<!-- > Session Planned -->
 > Finished - working on proceedings
+<-- > [Archived](https://datatracker.ietf.org/meeting/124/proceedings). -->
 
 <!-- Notes: https://notes.ietf.org/s/notes-ietf-124-rpp -->
 
