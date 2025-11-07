@@ -2,7 +2,8 @@
 19 Jul 2025 - 25 Jul 2025
 
 > ### ℹ️ Current status:
-> Finished - working on proceedings
+<!-- > Finished - working on proceedings -->
+> [Archived](https://datatracker.ietf.org/meeting/123/proceedings).
 
 Notes: https://notes.ietf.org/s/notes-ietf-123-rpp
 
