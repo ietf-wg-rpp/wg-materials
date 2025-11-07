@@ -16,9 +16,9 @@ Attendance: https://datatracker.ietf.org/meeting/124/session/34733/attendance
 
 <!-- Notes: https://notes.ietf.org/s/notes-ietf-124-rpp -->
 
-<!-- Materials: https://datatracker.ietf.org/meeting/124/materials -->
-<!-- https://datatracker.ietf.org/meeting/materials -->
-Materials: https://datatracker.ietf.org/meeting/124/session/rpp
+IETF124 Session Materials: https://datatracker.ietf.org/meeting/124/session/rpp
+<!-- IETF124 Materials: https://datatracker.ietf.org/meeting/124/materials -->
+<!-- Materials https://datatracker.ietf.org/meeting/materials -->
 
 <!-- See: https://datatracker.ietf.org/meeting/important-dates/#IETF124 -->
 
