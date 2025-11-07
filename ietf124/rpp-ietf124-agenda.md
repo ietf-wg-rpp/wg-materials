@@ -7,14 +7,16 @@
 
 * 🗓️ Thu 06 Nov 2025 🕤 09:30 - 11:00 EST (14:30 - 16:00 UTC) 📍 Notre Dame
 
-* [MeetEcho](https://meetings.conf.meetecho.com/ietf124/?session=34733) full client (with video)
+<!-- * [MeetEcho](https://meetings.conf.meetecho.com/ietf124/?session=34733) full client (with video)
 * [OnSiteTool](https://meetings.conf.meetecho.com/onsite124/?session=34733)
-* [Zulip Chat](https://zulip.ietf.org/#narrow/stream/rpp)
+* [Zulip Chat](https://zulip.ietf.org/#narrow/stream/rpp) -->
 * [Minutes](https://notes.ietf.org/notes-ietf-124-rpp) 
 <!-- * [Published minutes](https://notes.ietf.org/s/notes-ietf-124-rpp) -->
 * [Automated minutes (experimental)](https://ietfminutes.org/minutes/ietf124/rpp.html)
   
 * [Session recording](https://meetecho-player.ietf.org/playout/?session=IETF124-RPP-20251106-1430)
+
+* [Attendance](https://datatracker.ietf.org/meeting/124/session/34733/attendance)
 
 #### Chairs
 
@@ -73,10 +75,10 @@
 ### 📚 Potentially relevant reading material
 
 * From the mailinglist:
-  - TBD
+  - N/A
 
 * Per request 
-  - None Yet
+  - None
 
 * IETF123:
   - https://github.com/ietf-wg-rpp/wg-materials/tree/main/ietf123
