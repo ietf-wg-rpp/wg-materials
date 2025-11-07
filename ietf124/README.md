@@ -4,7 +4,8 @@
 90 mins.
 
 > ### ℹ️ Current status:
-> In preperation
+<!-- > In preperation -->
+> Finished - working on proceedings
 
 <!-- Notes: https://notes.ietf.org/s/notes-ietf-124-rpp -->
 
