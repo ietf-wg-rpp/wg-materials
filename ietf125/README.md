@@ -10,7 +10,7 @@
 > <!-- [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/125/materials/agenda-125-rpp) -->
 > <!-- Finished - working on proceedings -->
 
-<! --Attendance: https://datatracker.ietf.org/meeting/125/session/xxxxx/attendance -->
+<!-- Attendance: https://datatracker.ietf.org/meeting/125/session/xxxxx/attendance -->
 
 <!-- > [Archived](https://datatracker.ietf.org/meeting/125/proceedings). -->
 
