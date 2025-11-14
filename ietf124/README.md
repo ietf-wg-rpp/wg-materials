@@ -8,7 +8,8 @@
 > <!-- > Session Planned -->
 > <!-- Preliminary agenda published on this GitHub-->
 > <!-- [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/124/materials/agenda-124-rpp) -->
-> Finished - working on proceedings
+> <!-- Finished - working on proceedings -->
+> [Archived](https://datatracker.ietf.org/meeting/124/proceedings).
 
 Attendance: https://datatracker.ietf.org/meeting/124/session/34733/attendance
 
