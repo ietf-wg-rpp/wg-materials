@@ -4,7 +4,8 @@
 90 mins. ???
 
 > ### ℹ️ Current status:
-> Planning and preparations in progress 
+> Planning and preparations in progress
+> - [x] session request submitted.
 > <!-- Session Planned -->
 > <!-- Preliminary agenda published on this GitHub-->
 > <!-- [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/125/materials/agenda-125-rpp) -->
