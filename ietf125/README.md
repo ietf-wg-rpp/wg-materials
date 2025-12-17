@@ -1,7 +1,7 @@
 # IETF 125 - Shenzhen
 14 Mar 2026 - 20 Mar 2026
 
-90 mins. ???
+90 mins.
 
 > ### ℹ️ Current status:
 > Planning and preparations in progress
