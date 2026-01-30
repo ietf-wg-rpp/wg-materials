@@ -4,7 +4,7 @@
 90 mins.
 
 > ### ℹ️ Current status:
-> Planning and preparations in progress
+> Planning and preparations in progress - next update of this page expected on 2026-03-02.
 > - [x] session request submitted.
 > <!-- Session Planned -->
 > <!-- Preliminary agenda published on this GitHub-->
