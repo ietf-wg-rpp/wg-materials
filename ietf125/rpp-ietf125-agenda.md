@@ -44,30 +44,24 @@
 > 🚧 work in progress
 
 #### 📋 Administrivia
-
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
 
 #### 🛠️ Current Working Group Business
 * WG Operation:
-  - [n/a] <!-- Deliverables / Milestones; roadmap (Chairs), 5 minutes -->
+  - Deliverables / Milestones; roadmap (Chairs), 1 minute
+     - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) - set state to: '*Parked WG Document*' (See [milestones](https://datatracker.ietf.org/wg/rpp/about/).)
+     <!-- Marked as a Parked WG Document after the call for consensus concluded, allowing the WG to return to it later if further insights emerge, while focusing on the core RPP specifications. --> 
 * Various updates:
-  - [in progress]
-  <!-- NO HACKATHON PLANNED - [Hackathon](https://wiki.ietf.org/en/meeting/125/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes -->
+  - [Yes/ no ?]
+  <!-- NO HACKATHON PLANNED THIS TIME - [Hackathon](https://wiki.ietf.org/en/meeting/125/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes -->
 * Deliverables / Milestones; current status and active documents:
-  - [in progress]
-<!--  - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) version -02 delta from -01 (M. Wullink), 10 minutes
-    - (Ready for WG consensus / WG last call?) (See [milestones](https://datatracker.ietf.org/wg/rpp/about/))
-  - I-D: [draft-kowalik-rpp-architecture](https://datatracker.ietf.org/doc/draft-kowalik-rpp-architecture/) version -03 delta from -02 (P. Kowalik), 5 minutes
-    - (Adopted)
-  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) version -03 delta from -01 and discussion discussion (M. Wullink), 10 minutes
-  - Open mic for clarifying questions/discussion, 5 minutes -->
-
+  - [Yes / no ?]
+<!--  - I-D: [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/html/draft-ietf-rpp-architecture) version -00 delta from draft-kowalik-rpp-architecture-03, no changes (P. Kowalik), 5 minutes -->
+<!--  - Open mic for clarifying questions/discussion, 5 minutes -->
 #### 💡 For Consideration
-  - [in progress]
-<!--  - I-D: [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/) version -01 (C. Simmen), 10 minutes <!-- https://github.com/christian-simmen/draft-simmen-rpp-dns-data -->
-  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects) version -01 (P. Kowalik) 15 minutes -->
+* [Yes / no ?]
 #### ⌛️ Time Permitting
-  - TBD
+* TBD
 
 #### 🎤 AOB
 * Closing remarks (Chairs), 10 minutes
