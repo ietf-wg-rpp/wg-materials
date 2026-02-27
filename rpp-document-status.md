@@ -1,4 +1,4 @@
-# RPP Chairs Status
+# RPP Chairs
 <!-- ### Updated: x xxx 20xx -->
 
 Official document list: https://datatracker.ietf.org/wg/rpp/documents/
