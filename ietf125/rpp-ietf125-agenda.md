@@ -79,6 +79,7 @@
  
 * On GitHub:
   - https://github.com/ietf-wg-rpp/RPP-architecture/issues
+  - https://github.com/SIDN/ietf-rpp-json/issues
 
 * Per request 
   - None
