@@ -52,8 +52,12 @@
      - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) - set state to: '*Parked WG Document*' (See [milestones](https://datatracker.ietf.org/wg/rpp/about/).)
      <!-- Marked as a Parked WG Document after the call for consensus concluded, allowing the WG to return to it later if further insights emerge, while focusing on the core RPP specifications. --> 
 * Various updates:
-  - [Yes/ no ?]
-  <!-- NO HACKATHON PLANNED THIS TIME - [Hackathon](https://wiki.ietf.org/en/meeting/125/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes -->
+  - Update architecture draft (Pawel) -01 (was adopted) 10-15 mins (2 topics)
+  - Update data-objects daft (Pawel) (not yet adopted) 15 mins (4 open topics / questions, discussion mic)
+  - Update core-document (Maarten) ~15 min (questions, discussion, feedback)
+  - Update json-document (Maarten) ~ 15 min (have something to show) 
+  <!-- NO FORMAL HACKATHON PLANNED THIS TIME - [Hackathon](https://wiki.ietf.org/en/meeting/125/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes -->
+  - Placeholder: informal hackathon update 5 min
 * Deliverables / Milestones; current status and active documents:
   - [Yes / no ?]
 <!--  - I-D: [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/html/draft-ietf-rpp-architecture) version -00 delta from draft-kowalik-rpp-architecture-03, no changes (P. Kowalik), 5 minutes -->
