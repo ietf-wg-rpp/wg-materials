@@ -79,8 +79,8 @@
  
 * On GitHub:
   - https://github.com/ietf-wg-rpp/RPP-architecture/issues
-  - https://github.com/pawel-kow/draft-kowalik-rpp-data-objects
-  - https://github.com/SIDN/ietf-rpp-core
+  - https://github.com/pawel-kow/draft-kowalik-rpp-data-objects/issues
+  - https://github.com/SIDN/ietf-rpp-core/issues
   - https://github.com/SIDN/ietf-rpp-json/issues
 
 * Per request 
