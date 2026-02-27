@@ -41,45 +41,49 @@
 
 ---
 ### Agenda
-> 🚧 work in progress
+<!-- > 🚧 Work in progress -->
+> 🚀 First draft
 
 #### 📋 Administrivia
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
 
 #### 🛠️ Current Working Group Business
 * WG Operation:
-  - Deliverables / Milestones; roadmap (Chairs), 1 minute
-     - [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) - set state to: '*Parked WG Document*' (See [milestones](https://datatracker.ietf.org/wg/rpp/about/).)
-     <!-- Marked as a Parked WG Document after the call for consensus concluded, allowing the WG to return to it later if further insights emerge, while focusing on the core RPP specifications. --> 
-* Various updates:
-  - Update architecture draft (Pawel) -01 (was adopted) 10-15 mins (2 topics)
-  - Update data-objects daft (Pawel) (not yet adopted) 15 mins (4 open topics / questions, discussion mic)
-  - Update core-document (Maarten) ~15 min (questions, discussion, feedback)
-  - Update json-document (Maarten) ~ 15 min (have something to show) 
-  <!-- NO FORMAL HACKATHON PLANNED THIS TIME - [Hackathon](https://wiki.ietf.org/en/meeting/125/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes -->
-  - Placeholder: informal hackathon update 5 min
+  - [n/a]
 * Deliverables / Milestones; current status and active documents:
-  - [Yes / no ?]
-<!--  - I-D: [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/html/draft-ietf-rpp-architecture) version -00 delta from draft-kowalik-rpp-architecture-03, no changes (P. Kowalik), 5 minutes -->
-<!--  - Open mic for clarifying questions/discussion, 5 minutes -->
+  - I-D: [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) version -01 delta from -00 (P. Kowalik), 15 minutes
+  - 🎤 Open mic for clarifying questions/discussion, 5 minutes
+* Various updates:
+  - I-D: [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) - set state to: '*Parked WG Document*' (See [milestones](https://datatracker.ietf.org/wg/rpp/about/).)
+  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) version -03 delta from -02 (P. Kowalik), 15 minutes
+  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) version -04 delta from -03 (M. Wullink), 15 minites
+  - I-D: [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/html/draft-wullink-rpp-json) version -01 from -00 (M. Wullink), 15 minutes
+  <!-- NO FORMAL HACKATHON PLANNED THIS TIME - [Hackathon](https://wiki.ietf.org/en/meeting/125/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes -->
+  - 🏷️ Placeholder: informal hackathon update, 5 minutes
+  - 🎤 Open mic for clarifying questions/discussion, 5 minutes
+    
 #### 💡 For Consideration
-* [Yes / no ?]
+* [n/a]
+  
 #### ⌛️ Time Permitting
 * TBD
 
 #### 🎤 AOB
-* Closing remarks (Chairs), 1 minutes
+* Closing remarks (Chairs), 2 minutes
   
 ---
 ### 📚 Potentially relevant reading material
 
 * From the mailinglist:
   - N/A
+ 
+* On GitHub:
+  - https://github.com/ietf-wg-rpp/RPP-architecture/issues
 
 * Per request 
   - None
 
-* IETF124:
+* ↺ IETF124 (previous meeting):
   - Github: https://github.com/ietf-wg-rpp/wg-materials/tree/main/ietf124
   - Agenda: https://datatracker.ietf.org/meeting/124/materials/agenda-124-rpp
   - Materials: https://datatracker.ietf.org/meeting/124/session/rpp/
