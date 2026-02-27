@@ -56,7 +56,7 @@
 * Various updates:
   - 📢 brief announcement by chairs: [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) - set state to: '*Parked WG Document*' (See [milestones](https://datatracker.ietf.org/wg/rpp/about/).)
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) version -03 delta from -02 (P. Kowalik), 15 minutes
-  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) version -04 delta from -03 (M. Wullink), 15 minites
+  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) version -04 delta from -03 (M. Wullink), 15 minutes
   - I-D: [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/html/draft-wullink-rpp-json) version -01 from -00 (M. Wullink), 15 minutes
   <!-- NO FORMAL HACKATHON PLANNED THIS TIME - [Hackathon](https://wiki.ietf.org/en/meeting/125/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes -->
   - 🏷️ Placeholder: informal hackathon update, 5 minutes
