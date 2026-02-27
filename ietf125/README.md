@@ -4,10 +4,10 @@
 90 mins.
 
 > ### ℹ️ Current status:
-> Planning and preparations in progress - next update of this page expected on 2026-03-02.
+> Planning and preparations in progress - next update of this page expected on 2026-03-04.
 > - [x] session request submitted.
-> <!-- Session Planned -->
-> <!-- Preliminary agenda published on this GitHub-->
+> - [x] Session Planned
+> - [x] Preliminary agenda published on this GitHub
 > <!-- [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/125/materials/agenda-125-rpp) -->
 > <!-- Finished - working on proceedings -->
 
