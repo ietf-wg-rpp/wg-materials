@@ -54,7 +54,7 @@
   - I-D: [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) version -01 delta from -00 (P. Kowalik), 15 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes
 * Various updates:
-  - 📢 brief aanouncement by chairs: [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) - set state to: '*Parked WG Document*' (See [milestones](https://datatracker.ietf.org/wg/rpp/about/).)
+  - 📢 brief announcement by chairs: [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) - set state to: '*Parked WG Document*' (See [milestones](https://datatracker.ietf.org/wg/rpp/about/).)
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) version -03 delta from -02 (P. Kowalik), 15 minutes
   - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) version -04 delta from -03 (M. Wullink), 15 minites
   - I-D: [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/html/draft-wullink-rpp-json) version -01 from -00 (M. Wullink), 15 minutes
