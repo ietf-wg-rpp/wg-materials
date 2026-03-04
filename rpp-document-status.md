@@ -11,7 +11,7 @@ To be done next.
 
 ### Start call for adoption for:
  - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
- - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) (also set state to 'Candidate for WG adoption')
+ - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/)
 
 What about:
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) ? (we could already set state to 'Candidate for WG adoption')
