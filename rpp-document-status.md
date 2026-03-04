@@ -14,7 +14,7 @@ To be done next.
  - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) (also set state to 'Candidate for WG adoption')
 
 What about:
- - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) ? (we can already set state to 'Candidate for WG adoption')
+ - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) ? (we could already set state to 'Candidate for WG adoption')
 
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
