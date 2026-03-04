@@ -10,10 +10,10 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 To be done next.
 
 ### Start call for adoption for:
- - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) (marked as cadidate per 20251010)
- - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) (marked as candidate per 20260304)
+ - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) (marked as candidate for adoption per 20251010)
+ - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) (marked as candidate for adoption per 20260304)
 
-Planning: A few weeks before IETF 126.
+Planning: Authors issue a CFA a few weeks before IETF 126.
 
 What about:
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) ? (we could already set state to 'Candidate for WG adoption' if the authors feel they are ready for it.)
