@@ -10,8 +10,8 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 To be done next.
 
 ### Start call for adoption for:
- - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
- - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/)
+ - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) (marked as cadidate per 20251010)
+ - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) (marked as candidate per 20260304)
 
 Planning: A few weeks before IETF 126.
 
