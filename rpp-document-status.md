@@ -5,6 +5,8 @@ Official document list: 🌐 [RPP Documents](https://datatracker.ietf.org/wg/rpp
 Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 
 <!-- useful link: https://chairs.ietf.org/github -->
+<!-- useful link: https://www.rfc-editor.org/rfc/rfc7221.html -->
+<1-- useful link: https://datatracker.ietf.org/doc/html/rfc2418 -->
 
 ## Upcoming Actions
 To be done next.
