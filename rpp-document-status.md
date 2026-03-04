@@ -8,7 +8,7 @@ Questions, Concerns, etc:  rpp-chairs at ietf.org
 <!-- useful link: https://chairs.ietf.org/github -->
 
 ## Upcoming Actions
-To be done next.
+To be considered and done next.
 
 ### Start call for adoption for:
  - https://datatracker.ietf.org/doc/draft-wullink-rpp-core/ ?
