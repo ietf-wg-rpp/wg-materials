@@ -22,6 +22,6 @@ What about:
 ## Previous Actions
 To be revisited / followed up later.
 
-## Active WG documents
+### Active WG documents
  - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (actively worked on)
  - 🅿️ [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) (parked for the time being)
