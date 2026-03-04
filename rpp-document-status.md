@@ -3,15 +3,12 @@
 
 Official document list: https://datatracker.ietf.org/wg/rpp/documents/
 
-<!--
-Better Tracker:  https://github.com/ietf-wg-rpp/RPP_Doc_Tracker/issues
--->
-
 Questions, Concerns, etc:  rpp-chairs at ietf.org
 
 <!-- useful link: https://chairs.ietf.org/github -->
 
 ## Upcoming Actions
+To be done next.
 
 ### Start call for adoption for:
  - https://datatracker.ietf.org/doc/draft-wullink-rpp-core/
@@ -25,7 +22,7 @@ What about:
  - Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone ? Could it be https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/ ?
 
 ## Previous Actions
-To be addressed further later
+To be revisited / followed up later.
 
 ## Active documents
 
