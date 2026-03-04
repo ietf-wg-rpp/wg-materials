@@ -18,7 +18,7 @@ Questions, Concerns, etc:  rpp-chairs at ietf.org
  - https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/ (also set state to 'Candidate for WG adoption')
 
 What about:
- - https://datatracker.ietf.org/doc/draft-wullink-rpp-json/ ?
+ - https://datatracker.ietf.org/doc/draft-wullink-rpp-json/ ? (we can already set state to 'Candidate for WG adoption')
 
 ### Discuss with authors and WG:
 
