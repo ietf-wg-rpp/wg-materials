@@ -13,7 +13,7 @@ To be done next.
  - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) (marked as candidate for adoption per 20251010)
  - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) (marked as candidate for adoption per 20260304)
 
-Planning: Authors issue a CFA a few weeks before IETF 126.
+Planning: Authors issue a CFA (Call for Adoption) after IETF 125 up to a few weeks before IETF 126.
 
 What about:
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) ? (we could already set state to 'Candidate for WG adoption' if the authors feel they are ready for it.)
