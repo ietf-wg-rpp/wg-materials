@@ -24,7 +24,7 @@ What about:
 ## Previous Actions
 To be revisited / followed up later.
 
-## Active documents
+### Active documents
 
  - https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/ (actively worked on)
  - https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/ (parked for the time being)
