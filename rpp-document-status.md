@@ -13,6 +13,8 @@ To be done next.
  - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
  - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/)
 
+Planning: A few weeks before IETF 126.
+
 What about:
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) ? (we could already set state to 'Candidate for WG adoption')
 
