@@ -23,5 +23,5 @@ What about:
 To be revisited / followed up later.
 
 ### Active WG documents
- - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted, actively worked on)
+ - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted per 20251027, actively worked on)
  - 🅿️ [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) (adopted, parked for the time being)
