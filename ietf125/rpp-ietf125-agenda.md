@@ -42,7 +42,8 @@
 ---
 ### Agenda
 <!-- > 🚧 Work in progress -->
-> 🚀 First draft
+<!-- > 🚀 First draft -->
+> 🏁 Final version -->
 
 #### 📋 Administrivia
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
