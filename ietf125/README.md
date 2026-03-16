@@ -6,8 +6,8 @@
 > ### ℹ️ Current status:
 > <!-- Planning and preparations in progress - next update of this page expected no later than 2026-03-04. -->
 > <!-- Planning and preparations in final stage - waiting for presenters to upload their slides. -->
-> - [x] session request submitted.
-> - [x] Session Planned
+> - [x] Session request submitted.
+> - [x] Session planned
 > - [x] Preliminary agenda published on this GitHub
 > - [x] [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/125/materials/agenda-125-rpp)
 > - [x] Presenter slides uploaded - all set!
