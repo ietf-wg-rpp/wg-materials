@@ -13,8 +13,6 @@
 
 Attendance: https://datatracker.ietf.org/meeting/124/session/34733/attendance
 
-<!-- > [Archived](https://datatracker.ietf.org/meeting/124/proceedings). -->
-
 Notes: https://notes.ietf.org/s/notes-ietf-124-rpp
 
 IETF124 Session Materials: https://datatracker.ietf.org/meeting/124/session/rpp
