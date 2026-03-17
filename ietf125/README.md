@@ -17,17 +17,18 @@
 
 <!-- Attendance: https://datatracker.ietf.org/meeting/125/session/xxxxx/attendance -->
 
-<!-- > [Archived](https://datatracker.ietf.org/meeting/125/proceedings). -->
+[IETF125 Draft proceedings](https://datatracker.ietf.org/meeting/125/proceedings)
 
 <!-- Minutes: https://notes.ietf.org/s/notes-ietf-125-rpp -->
-
-<!-- IETF125 Session Materials: https://datatracker.ietf.org/meeting/125/session/rpp -->
+[Minutes](https://datatracker.ietf.org/meeting/125/materials/minutes-125-rpp-202603160830-01)
+ 
+[IETF125 Session Materials](https://datatracker.ietf.org/meeting/125/session/rpp)
 
 <!-- IETF125 meeting requests: https://datatracker.ietf.org/meeting/125/requests -->
 <!-- IETF125 Materials: https://datatracker.ietf.org/meeting/125/materials -->
 <!-- Materials https://datatracker.ietf.org/meeting/materials -->
 
-See: https://datatracker.ietf.org/meeting/important-dates/#IETF125
+<!-- See: https://datatracker.ietf.org/meeting/important-dates/#IETF125 -->
 
 <!--
 see: https://datatracker.ietf.org/doc/html/rfc2418#section-3.1
