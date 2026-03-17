@@ -15,13 +15,13 @@
 -->
 > Finished - working on proceedings
 
-<!-- Attendance: https://datatracker.ietf.org/meeting/125/session/xxxxx/attendance -->
-
 [IETF125 Draft proceedings](https://datatracker.ietf.org/meeting/125/proceedings)
 
 <!-- Minutes: https://notes.ietf.org/s/notes-ietf-125-rpp -->
 [Minutes](https://datatracker.ietf.org/meeting/125/materials/minutes-125-rpp-202603160830-01)
- 
+
+[Attendance](https://datatracker.ietf.org/meeting/125/session/35068/attendance)
+
 [IETF125 Session Materials](https://datatracker.ietf.org/meeting/125/session/rpp)
 
 <!-- IETF125 meeting requests: https://datatracker.ietf.org/meeting/125/requests -->
