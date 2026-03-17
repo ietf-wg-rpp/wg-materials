@@ -4,6 +4,7 @@
 90 mins.
 
 > ### ℹ️ Current status:
+> Finished - working on proceedings
 > <!-- Planning and preparations in progress - next update of this page expected no later than 2026-03-04. -->
 > <!-- Planning and preparations in final stage - waiting for presenters to upload their slides. -->
 <!--
@@ -13,7 +14,6 @@
 > - [x] [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/125/materials/agenda-125-rpp)
 > - [x] Presenter slides uploaded - all set!
 -->
-> Finished - working on proceedings
 
 [IETF125 Draft proceedings](https://datatracker.ietf.org/meeting/125/proceedings)
 
