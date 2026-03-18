@@ -20,7 +20,7 @@
 <!-- Minutes: https://notes.ietf.org/s/notes-ietf-125-rpp -->
 [Minutes](https://datatracker.ietf.org/meeting/125/materials/minutes-125-rpp-202603160830-01)
 
-[Automatic minutes](https://ietf-minutes.github.io/ietf-minutes-data/minutes/ietf125/rpp.html)
+[Unofficial automatic minutes](https://ietf-minutes.github.io/ietf-minutes-data/minutes/ietf125/rpp.html) (caution: AI generated and may/will contain errors)
 
 [Attendance](https://datatracker.ietf.org/meeting/125/session/35068/attendance)
 
