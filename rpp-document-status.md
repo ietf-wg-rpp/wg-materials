@@ -25,6 +25,7 @@ What about:
 
 ### TBD
  - [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/)
+ - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/)
 
 ## Previous Actions
 To be revisited / followed up later.
