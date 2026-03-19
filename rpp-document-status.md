@@ -23,6 +23,9 @@ What about:
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
 
+### TBD
+ - [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/)
+
 ## Previous Actions
 To be revisited / followed up later.
 
