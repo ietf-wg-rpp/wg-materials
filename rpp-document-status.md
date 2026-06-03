@@ -23,7 +23,7 @@ What about:
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
 
-### New work TBD
+### New work TBD (not on Datatracker)
  - I-D for JSON media type for RESTful EPP: [draft-wullink-rpp-json](https://github.com/SIDN/ietf-rpp-json)
  - I-D for describing how to use OAuth 2.0 for RPP: [draft-wullink-rpp-oauth2](https://github.com/SIDN/ietf-rpp-oauth2)
  - I-D for describing how to perform an object transfer when using OAuth 2.0 for RPP: [draft-wullink-rpp-oauth2-transfer](https://github.com/SIDN/ietf-rpp-oauth2-transfer)
