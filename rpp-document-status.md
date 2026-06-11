@@ -15,7 +15,8 @@ To be done next.
  - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
     - marked as candidate for adoption per 20251010
     - authors formally requested for adoption on mailinglist on 20260611
- - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) (marked as candidate for adoption per 20260304)
+ - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/)
+    - marked as candidate for adoption per 20260304
 
 📌 Planning: Authors publish a CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
 
