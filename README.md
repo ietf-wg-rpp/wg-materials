@@ -13,7 +13,7 @@
   - TBD
 -->
 ##### Area Director(s): 
-  - [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries)
+  - [Charles Eckel](https://datatracker.ietf.org/person/eckelcu@cisco.com)
   <!--- [Andy Newton](https://datatracker.ietf.org/person/andy@hxr.us) -->
 
 ##### Tiger Team:
