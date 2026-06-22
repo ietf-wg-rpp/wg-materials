@@ -11,7 +11,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 ## Upcoming Actions
 To be done next.
 
-### Start call for adoption for:
+### Call for adoption:
  - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
     - marked as candidate for adoption per 20251010
     - authors formally requested for adoption on mailinglist on 20260611
