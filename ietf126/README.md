@@ -9,7 +9,7 @@
 > <!-- Planning and preparations in final stage - waiting for presenters to upload their slides. -->
 > - [x] Session request submitted.
 > - [x] Session planned
-> - [] Preliminary agenda published on this GitHub
+> - [x] Preliminary agenda published on this GitHub
 > - [] [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/126/materials/agenda-126-rpp)
 > - [] Presenter slides uploaded - all set!
 
