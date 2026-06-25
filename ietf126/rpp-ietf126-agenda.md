@@ -52,7 +52,7 @@
 * WG Operation:
   - [n/a]
 * Deliverables / Milestones; current status and active documents:
-  - TBD
+  - CfA of three documents 
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes
 * Various updates
   - TBD
