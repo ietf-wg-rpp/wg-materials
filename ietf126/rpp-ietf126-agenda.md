@@ -42,7 +42,7 @@
 ---
 ### Agenda
 <!-- > 🚧 Work in progress -->
-> 🚀 First draft -->
+> 🚀 First draft
 <!-- > 🏁 Final version -->
 
 #### 📋 Administrivia
