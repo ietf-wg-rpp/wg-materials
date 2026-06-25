@@ -7,17 +7,17 @@
 
 * 🗓️  Tue, 21 Jul 2026 🕤 11:00 - 12:30 CEST (09:00 - 10:30 UTC) 📍 Park Suite 7
 
-<!-- * [Notepad for note-takers](https://notes.ietf.org/notes-ietf-126-rpp) -->
-<!-- * [MeetEcho](https://meetings.conf.meetecho.com/ietf126/?session=xxx) full client (with video) -->
-<!-- * [OnSiteTool](https://meetings.conf.meetecho.com/onsite126/?session=xxx) -->
-<!-- * [Zulip Chat](https://zulip.ietf.org/#narrow/stream/rpp) -->
-<!-- * [Minutes](https://notes.ietf.org/notes-ietf-126-rpp)
-<!-- * [Published minutes](https://notes.ietf.org/s/notes-ietf-126-rpp) -->
-<!-- * [Automated minutes (experimental)](https://ietfminutes.org/minutes/ietf126/rpp.html) -->
+* [Notepad for note-takers](https://notes.ietf.org/notes-ietf-126-rpp)
+* [MeetEcho](https://meetings.conf.meetecho.com/ietf126/?session=35482) full client (with video)
+* [OnSiteTool](https://meetings.conf.meetecho.com/onsite126/?session=35482)
+* [Zulip Chat](https://zulip.ietf.org/#narrow/stream/rpp)
+* [Minutes](https://notes.ietf.org/notes-ietf-126-rpp)
+* [Published minutes](https://notes.ietf.org/s/notes-ietf-126-rpp)
+* [Automated minutes (experimental)](https://ietfminutes.org/minutes/ietf126/rpp.html)
   
-<!-- * [Session recording](https://meetecho-player.ietf.org/playout/?session=IETF126-RPP-xxx) -->
+<!-- * [Session recording](https://meetecho-player.ietf.org/playout/?session=IETF126-RPP-35482) -->
 
-<!-- * [Attendance](https://datatracker.ietf.org/meeting/126/session/35068/attendance) -->
+* [Attendance](https://datatracker.ietf.org/meeting/126/session/35482/attendance)
 
 #### Chairs
 
@@ -30,7 +30,7 @@
 <!-- * [Andy Newton](https://datatracker.ietf.org/person/andy@hxr.us) (?) -->
 
 #### Presenters (planned)
-* P. Kowalik (remote/onsite)
+* P. Kowalik (remote or onsite)
 * M. Wullink (onsite)
 
 #### Document Status
