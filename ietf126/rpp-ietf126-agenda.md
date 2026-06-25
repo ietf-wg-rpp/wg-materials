@@ -41,30 +41,37 @@
 
 ---
 ### Agenda
-> 🚧 Work in progress 
-<!-- > 🚀 First draft -->
+<!-- > 🚧 Work in progress -->
+> 🚀 First draft -->
 <!-- > 🏁 Final version -->
 
 #### 📋 Administrivia
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
 
 #### 🛠️ Current Working Group Business
+<!-- 
 * WG Operation:
   - [n/a]
-* Deliverables / Milestones; current status and active documents:
-  - CfA of three documents 
+-->
+* Deliverables / Milestones; current status and active documents (recently adopted):
+  - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) version -04 from -03 (P. Kowalik), 15 minutes
+  - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) resolved issues (M. Wullink), 10 minutes
+  - I-D: [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) version -02 from -01 (P. Kowalik), 15 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes
-* Various updates
-  - TBD
+* New Work
+  - I-D: [draft-wullink-rpp-jscontact-profile](https://github.com/SIDN/ietf-rpp-jscontact-profile) (P. Kowalik), 10 minutes
+  - I-D: [draft-wullink-rpp-oauth2](https://github.com/SIDN/ietf-rpp-oauth2) (M. Wullink), 10 minutes
   - (🎤 Open mic for clarifying questions/discussion, 5 minutes included with each presentation)
  
 <!--     
 #### 💡 For Consideration
 * TBD
-  
-#### ⌛️ Time Permitting
-* TBD
 -->
+#### ⌛️ Time Permitting
+* More OAUth work
+  - I-D: [draft-wullink-rpp-oauth2-transfer](https://github.com/SIDN/ietf-rpp-oauth2-transfer) (M. Wullink), 5 minutes
+  - I-D: [draft-wullink-rpp-oauth2-delegation](https://github.com/SIDN/ietf-rpp-oauth2-delegation) (M. Wullink), 5 minutes
+  - - 🎤 Open mic for clarifying questions/discussion, 5 minutes
 
 #### 🎤 AOB
 * Closing remarks (Chairs), 2 minutes
@@ -73,7 +80,7 @@
 ### 📚 Potentially relevant reading material
 
 * From the mailinglist:
-  - N/A
+  - [RFC10008 HTTP Query](https://mailarchive.ietf.org/arch/msg/rpp/k90gS8W_m5v9IK4_xGPj1u6NjSs/)
  
 * On GitHub:
   - https://github.com/ietf-wg-rpp/RPP-architecture/issues
