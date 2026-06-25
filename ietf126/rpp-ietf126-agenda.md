@@ -30,8 +30,8 @@
 <!-- * [Andy Newton](https://datatracker.ietf.org/person/andy@hxr.us) (?) -->
 
 #### Presenters (planned)
-* P. Kowalik (?)
-* M. Wullink (?)
+* P. Kowalik (remote/onsite)
+* M. Wullink (onsite)
 
 #### Document Status
 
