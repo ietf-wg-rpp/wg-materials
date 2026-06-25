@@ -58,12 +58,13 @@
   - TBD
   - (🎤 Open mic for clarifying questions/discussion, 5 minutes included with each presentation)
  
-    
+<!--     
 #### 💡 For Consideration
 * TBD
   
 #### ⌛️ Time Permitting
 * TBD
+-->
 
 #### 🎤 AOB
 * Closing remarks (Chairs), 2 minutes
