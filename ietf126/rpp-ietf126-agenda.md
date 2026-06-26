@@ -53,6 +53,8 @@
 * WG Operation:
   - [n/a]
 -->
+* Various updates:
+  - [Hackathon](https://wiki.ietf.org/en/meeting/126/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes
 * Deliverables / Milestones; current status and active documents (recently adopted):
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) version -04 from -03 (P. Kowalik), 15 minutes
   - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) resolved issues (M. Wullink), 10 minutes
