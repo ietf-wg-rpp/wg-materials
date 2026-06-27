@@ -5,7 +5,7 @@
 
 ## IETF 126 - WG Session
 
-* 🗓️  Tue, 21 Jul 2026 🕤 11:00 - 12:30 CEST (09:00 - 10:30 UTC) 📍 Park Suite 7
+* 🗓️  Tue, 21 Jul 2026 🕤 16:30 - 18:00 CEST (14:30 - 16:00 UTC) 📍 Park Suite 6
 
 * [Notepad for note-takers](https://notes.ietf.org/notes-ietf-126-rpp)
 * [MeetEcho](https://meetings.conf.meetecho.com/ietf126/?session=35482) full client (with video)
