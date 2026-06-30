@@ -53,8 +53,6 @@
 * WG Operation:
   - [n/a]
 -->
-* Various updates:
-  - [Hackathon](https://wiki.ietf.org/en/meeting/126/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes
 * Deliverables / Milestones; current status and active documents (recently adopted):
   - I-D: [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) version -04 from -03 (P. Kowalik), 15 minutes
   - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) resolved issues (M. Wullink), 10 minutes
@@ -74,6 +72,8 @@
   - I-D: [draft-wullink-rpp-oauth2-transfer](https://github.com/SIDN/ietf-rpp-oauth2-transfer) (M. Wullink), 5 minutes
   - I-D: [draft-wullink-rpp-oauth2-delegation](https://github.com/SIDN/ietf-rpp-oauth2-delegation) (M. Wullink), 5 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
+* Various updates:
+  - [Hackathon](https://wiki.ietf.org/en/meeting/126/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes
 
 #### 🎤 AOB
 * Closing remarks (Chairs), 1 minute
