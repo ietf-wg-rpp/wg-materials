@@ -22,7 +22,7 @@ To be done next.
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/)
     - authors formally requested for adoption on mailinglist on 20260616
 
-📌 Planning: Authors publish a CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
+📌 Planning: CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126. ✅
 
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
