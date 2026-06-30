@@ -46,7 +46,7 @@
 <!-- > 🏁 Final version -->
 
 #### 📋 Administrivia
-* Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 5 minutes
+* Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 4 minutes
 
 #### 🛠️ Current Working Group Business
 <!-- 
