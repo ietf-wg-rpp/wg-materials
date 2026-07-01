@@ -20,6 +20,7 @@ To be done next.
     - marked as candidate for adoption per 20260304
     - authors formally requested for adoption on mailinglist on 20260612
     - adopted on 20260701
+    - renamed from draft-kowalik-rpp-data-objects-04 to draft-ietf-rpp-data-objects-00 on 20260701
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/)
     - authors formally requested for adoption on mailinglist on 20260616
     - adopted on 20260701
