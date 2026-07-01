@@ -10,8 +10,8 @@
 > - [x] Session request submitted.
 > - [x] Session planned
 > - [x] Preliminary agenda published on this GitHub
-> - [] [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/126/materials/agenda-126-rpp)
-> - [] Presenter slides uploaded - all set!
+> - [ ] [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/126/materials/agenda-126-rpp)
+> - [ ] Presenter slides uploaded - all set!
 
 <!--
 
