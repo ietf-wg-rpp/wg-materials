@@ -16,7 +16,7 @@ To be done next.
     - marked as candidate for adoption per 20251010
     - authors formally requested for adoption on mailinglist on 20260611
     - adopted on 20260630
- - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/)
+ - [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/)
     - marked as candidate for adoption per 20260304
     - authors formally requested for adoption on mailinglist on 20260612
     - adopted on 20260701
