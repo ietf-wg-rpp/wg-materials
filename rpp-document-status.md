@@ -19,10 +19,16 @@ To be done next.
  - [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/)
     - marked as candidate for adoption per 20260304
     - authors formally requested for adoption on mailinglist on 20260612
+    - adopted on 20260701
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/)
     - authors formally requested for adoption on mailinglist on 20260616
+    - adopted on 20260701
 
-📌 Planning: CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126. ✅
+#### 📌 Planning: 
+ - [x] CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
+ - [ ] Rename properly to draft-iet-rpp-xxx
+ - [ ] Bring to https://github.com/ietf-wg-rpp
+ - [ ] Change state to `WG Document`
 
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
