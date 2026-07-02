@@ -33,6 +33,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
+ - 🗓️ Adjust planning (`s/2006/2007/g` for some milestones?)
 
 ### New work (planned to be published on Datatracker before IETF126)
 <!-- - I-D for JSON for RPP: [draft-wullink-rpp-json](https://github.com/SIDN/ietf-rpp-json) -->
