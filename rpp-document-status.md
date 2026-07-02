@@ -8,8 +8,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 <!-- useful link: https://www.rfc-editor.org/rfc/rfc7221.html -->
 <!-- useful link: https://datatracker.ietf.org/doc/html/rfc2418 -->
 
-## Upcoming Actions
-To be done next.
+## Upcoming Work
 
 ### Call for adoption:
  - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
@@ -25,11 +24,12 @@ To be done next.
     - authors formally requested for adoption on mailinglist on 20260616
     - adopted on 20260701
 
-#### 📌 Planning: 
+#### 📌 Actions: 
  - [x] CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
  - [ ] Rename properly to draft-iet-rpp-xxx
  - [ ] Bring to https://github.com/ietf-wg-rpp
  - [ ] Change state to `WG Document`
+ - [ ] Move to 'Active Documents' section below
 
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
