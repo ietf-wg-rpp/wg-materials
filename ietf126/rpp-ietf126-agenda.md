@@ -59,8 +59,8 @@
   - I-D: [draft-ietf-rpp-json](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/) delta from previous version (P. Kowalik), 15 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the three combined)
 * New Work (targeted for adoption)
-  - I-D: [draft-wullink-rpp-jscontact-profile](https://github.com/SIDN/ietf-rpp-jscontact-profile) (P. Kowalik), 10 minutes
-  - I-D: [draft-wullink-rpp-oauth2](https://github.com/SIDN/ietf-rpp-oauth2) (M. Wullink), 10 minutes
+  - I-D: [draft-wullink-rpp-jscontact-profile](https://datatracker.ietf.org/doc/draft-wullink-rpp-jscontact-profile/) (P. Kowalik), 10 minutes
+  - I-D: [draft-wullink-rpp-oauth2](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2/) (M. Wullink), 10 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
  
 <!--     
@@ -69,7 +69,7 @@
 -->
 #### ⌛️ Time Permitting
 * More OAUth work (seeking feedback)
-  - I-D: [draft-wullink-rpp-oauth2-transfer](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2/) (M. Wullink), 5 minutes
+  - I-D: [draft-wullink-rpp-oauth2-transfer](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-transfer/) (M. Wullink), 5 minutes
   - I-D: [draft-wullink-rpp-oauth2-delegation](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-delegation/) (M. Wullink), 5 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
 * Various updates:
