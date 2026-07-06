@@ -54,9 +54,9 @@
   - [n/a]
 -->
 * Deliverables / Milestones; current status and active documents (recently adopted):
-  - I-D: [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/) (P. Kowalik), 15 minutes
+  - I-D: [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/) delta from previous version (P. Kowalik), 15 minutes
   - I-D: [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/) resolved issues (M. Wullink), 10 minutes
-  - I-D: [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) from -01 to -02 (P. Kowalik), 15 minutes
+  - I-D: [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/) delta from previous version (P. Kowalik), 15 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the three combined)
 * New Work (targeted for adoption)
   - I-D: [draft-wullink-rpp-jscontact-profile](https://github.com/SIDN/ietf-rpp-jscontact-profile) (P. Kowalik), 10 minutes
