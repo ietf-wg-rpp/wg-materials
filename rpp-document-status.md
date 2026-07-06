@@ -8,9 +8,9 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 <!-- useful link: https://www.rfc-editor.org/rfc/rfc7221.html -->
 <!-- useful link: https://datatracker.ietf.org/doc/html/rfc2418 -->
 
-## Upcoming Work
+## Recent progress
 
-### Call(ed) for adoption:
+### Between IETF125 and IETF126
  - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
     - marked as candidate for adoption per 20251010
     - authors formally requested for adoption on mailinglist on 20260611
@@ -26,16 +26,19 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
     - authors formally requested for adoption on mailinglist on 20260616
     - adopted on 20260701
     - renamed from `draft-wullink-rpp-json-02` to `draft-ietf-rpp-json-00` on 20260706
+    - transferred to ietf-wg-rpp repo on 20260706
 
 #### 📌 Actions: 
  - [x] CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
  - [x] Rename properly to draft-iet-rpp-xxx
  - [x] Change state to `WG Document` (happens automatically after approving renamed document)
- - [ ] Bring to https://github.com/ietf-wg-rpp
- - [ ] Move to 'Active Documents' section below
+ - [x] Bring to https://github.com/ietf-wg-rpp
+ - [ ] Move to 'Current Documents' section below (after IETF126)
+
+## Upcoming actions and work
 
 ### Discuss with authors and WG:
- - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-kowalik-rpp-data-objects](https://datatracker.ietf.org/doc/draft-kowalik-rpp-data-objects/) ?
+ - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/) ?
  - 🗓️ Adjust planning (`s/2006/2007/g` for some milestones?)
 
 ### New work (planned to be published on Datatracker before IETF126)
@@ -46,13 +49,12 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
  - I-D specifying a mechanism that allows third-party DNS operators to update domain delegation data using OAuth 2.0 and RPP: [draft-wullink-rpp-oauth2-delegation](https://github.com/SIDN/ietf-rpp-oauth2-delegation)
  - I-D that defines the JSContact Profile for RPP [draft-wullink-rpp-jscontact-profile](https://github.com/SIDN/ietf-rpp-jscontact-profile)
 
+## Active WG documents
+ - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted per [20251027](https://mailarchive.ietf.org/arch/msg/rpp/OTg21Vir7vsmpiozMB_CF1nvUWg/), actively worked on)
+ - 🅿️ [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) (adopted per [20250526](https://mailarchive.ietf.org/arch/msg/rpp/-dRVpWFZDCSk3Np2EU8O1C7P8Bs/), consensus per [20260203](https://mailarchive.ietf.org/arch/msg/rpp/P6cBywSy8AGMgG6wUmm2hK7YaNY/), parked for the time being)
+
+## Miscellaneous
+
 ### Experimental TBD
  - [draft-simmen-rpp-dns-data](https://datatracker.ietf.org/doc/draft-simmen-rpp-dns-data/)
  - [draft-bortzmeyer-rpp-json-dot-namespaces](https://datatracker.ietf.org/doc/draft-bortzmeyer-rpp-json-dot-namespaces/) (expired)
-
-## Previous Actions
-To be revisited / followed up later.
-
-### Active WG documents
- - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted per [20251027](https://mailarchive.ietf.org/arch/msg/rpp/OTg21Vir7vsmpiozMB_CF1nvUWg/), actively worked on)
- - 🅿️ [draft-ietf-rpp-requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/) (adopted per [20250526](https://mailarchive.ietf.org/arch/msg/rpp/-dRVpWFZDCSk3Np2EU8O1C7P8Bs/), consensus per [20260203](https://mailarchive.ietf.org/arch/msg/rpp/P6cBywSy8AGMgG6wUmm2hK7YaNY/), parked for the time being)
