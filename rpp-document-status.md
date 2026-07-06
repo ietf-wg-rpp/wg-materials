@@ -38,7 +38,8 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 ## Upcoming actions and work
 
 ### Discuss with authors and WG:
- - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone? Could it be [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/) ?
+ - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone?
+   - Could it be [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/) ?
  - 🗓️ Adjust planning (`s/2006/2007/g` for some milestones?)
 
 ### New work (planned to be published on Datatracker before IETF126 and presented there)
