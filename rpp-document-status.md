@@ -42,12 +42,10 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
  - 🗓️ Adjust planning (`s/2006/2007/g` for some milestones?)
 
 ### New work (planned to be published on Datatracker before IETF126)
-<!-- - I-D for JSON for RPP: [draft-wullink-rpp-json](https://github.com/SIDN/ietf-rpp-json) -->
-<!-- - I-D that defines data objects for RPP and sets up IANA RPP Data Object Registry to catalogue them: [draft-kowalik-rpp-data-objects](https://github.com/pawel-kow/draft-kowalik-rpp-data-objects) -->
- - I-D for describing how to use OAuth 2.0 for RPP: [draft-wullink-rpp-oauth2](https://github.com/SIDN/ietf-rpp-oauth2)
- - I-D for describing how to perform an object transfer when using OAuth 2.0 for RPP: [draft-wullink-rpp-oauth2-transfer](https://github.com/SIDN/ietf-rpp-oauth2-transfer)
- - I-D specifying a mechanism that allows third-party DNS operators to update domain delegation data using OAuth 2.0 and RPP: [draft-wullink-rpp-oauth2-delegation](https://github.com/SIDN/ietf-rpp-oauth2-delegation)
- - I-D that defines the JSContact Profile for RPP [draft-wullink-rpp-jscontact-profile](https://github.com/SIDN/ietf-rpp-jscontact-profile)
+ - I-D [draft-wullink-rpp-oauth2](https://github.com/SIDN/ietf-rpp-oauth2) for describing how to use OAuth 2.0 for RPP
+ - I-D [draft-wullink-rpp-oauth2-transfer](https://github.com/SIDN/ietf-rpp-oauth2-transfer) for describing how to perform an object transfer when using OAuth 2.0 for RPP
+ - I-D [draft-wullink-rpp-oauth2-delegation](https://github.com/SIDN/ietf-rpp-oauth2-delegation) specifying a mechanism that allows third-party DNS operators to update domain delegation data using OAuth 2.0 and RPP:
+ - I-D [draft-wullink-rpp-jscontact-profile](https://github.com/SIDN/ietf-rpp-jscontact-profile) that defines the JSContact Profile for RPP 
 
 ## Active WG documents
  - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted per [20251027](https://mailarchive.ietf.org/arch/msg/rpp/OTg21Vir7vsmpiozMB_CF1nvUWg/), actively worked on)
