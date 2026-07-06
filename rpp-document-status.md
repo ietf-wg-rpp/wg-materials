@@ -29,7 +29,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 
 #### 📌 Actions: 
  - [x] CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
- - [ ] Rename properly to draft-iet-rpp-xxx
+ - [x] Rename properly to draft-iet-rpp-xxx
  - [ ] Bring to https://github.com/ietf-wg-rpp
  - [ ] Change state to `WG Document`
  - [ ] Move to 'Active Documents' section below
