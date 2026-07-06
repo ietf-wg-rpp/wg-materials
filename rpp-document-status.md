@@ -25,6 +25,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
  - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/)
     - authors formally requested for adoption on mailinglist on 20260616
     - adopted on 20260701
+    - renamed from `draft-wullink-rpp-json-02` to `draft-ietf-rpp-json-00` on 20260706
 
 #### 📌 Actions: 
  - [x] CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
