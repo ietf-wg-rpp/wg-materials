@@ -69,7 +69,7 @@
 -->
 #### ⌛️ Time Permitting
 * More OAUth work (seeking feedback)
-  - I-D: [draft-wullink-rpp-oauth2-transfer](https://github.com/SIDN/ietf-rpp-oauth2-transfer) (M. Wullink), 5 minutes
+  - I-D: [draft-wullink-rpp-oauth2-transfer](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2/) (M. Wullink), 5 minutes
   - I-D: [draft-wullink-rpp-oauth2-delegation](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-delegation/) (M. Wullink), 5 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
 * Various updates:
