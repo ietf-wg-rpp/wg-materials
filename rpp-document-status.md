@@ -16,6 +16,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
     - authors formally requested for adoption on mailinglist on 20260611
     - adopted on 20260630
     - renamed from `draft-wullink-rpp-core-05` to `draft-ietf-rpp-core-00` on 20260706
+    - transferred to ietf-wg-rpp repo on 20260707
  - [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/)
     - marked as candidate for adoption per 20260304
     - authors formally requested for adoption on mailinglist on 20260612
@@ -32,7 +33,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
  - [x] CFA (Call for Adoption) after IETF 125 and up to a few weeks before IETF 126.
  - [x] Rename properly to draft-iet-rpp-xxx
  - [x] Change state to `WG Document` (happens automatically after approving renamed document)
- - [ ] Bring to https://github.com/ietf-wg-rpp
+ - [x] Bring to https://github.com/ietf-wg-rpp
  - [ ] Move to 'Current Documents' section below (after IETF126)
 
 ## Upcoming actions and work
