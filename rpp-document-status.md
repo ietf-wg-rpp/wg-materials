@@ -11,7 +11,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 ## Recent progress
 
 ### Between IETF125 and IETF126
- - [draft-wullink-rpp-core](https://datatracker.ietf.org/doc/draft-wullink-rpp-core/)
+ - [draft-ietf-rpp-core](https://datatracker.ietf.org/doc/draft-ietf-rpp-core/)
     - marked as candidate for adoption per 20251010
     - authors formally requested for adoption on mailinglist on 20260611
     - adopted on 20260630
@@ -22,7 +22,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
     - adopted on 20260701
     - renamed from `draft-kowalik-rpp-data-objects-04` to `draft-ietf-rpp-data-objects-00` on 20260701
     - transferred to ietf-wg-rpp repo on 20260706
- - [draft-wullink-rpp-json](https://datatracker.ietf.org/doc/draft-wullink-rpp-json/)
+ - [draft-ietf-rpp-json](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/)
     - authors formally requested for adoption on mailinglist on 20260616
     - adopted on 20260701
     - renamed from `draft-wullink-rpp-json-02` to `draft-ietf-rpp-json-00` on 20260706
