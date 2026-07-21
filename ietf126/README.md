@@ -11,7 +11,7 @@
 > - [x] Session planned
 > - [x] Preliminary agenda published on this GitHub
 > - [x] [Agenda submitted to Datatracker](https://datatracker.ietf.org/meeting/126/materials/agenda-126-rpp)
-> - [ ] Presenter slides uploaded - all set!
+> - [x] Presenter slides uploaded - all set!
 
 <!--
 
