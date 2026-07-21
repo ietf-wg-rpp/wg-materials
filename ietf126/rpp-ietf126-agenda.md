@@ -73,7 +73,7 @@
   - I-D: [draft-wullink-rpp-oauth2-delegation](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-delegation/) (M. Wullink), 5 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
 * Various updates:
-  - [Hackathon](https://wiki.ietf.org/en/meeting/126/hackathon#restful-provisioning-protocol-rpp) recap (M. Wullink), 5 minutes
+  - [Hackathon](https://wiki.ietf.org/en/meeting/126/hackathon#restful-provisioning-protocol-rpp) recap / live demo (M. Wullink), 5 minutes
 
 #### 🎤 AOB
 * Closing remarks (Chairs), 1 minute
