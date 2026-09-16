@@ -50,7 +50,8 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
  - I-D [draft-wullink-rpp-jscontact-profile](https://datatracker.ietf.org/doc/draft-wullink-rpp-jscontact-profile/) <!-- https://github.com/SIDN/ietf-rpp-jscontact-profile --> that defines the JSContact Profile for RPP
 
 ### Even newer
- https://github.com/SIDN/ietf-rpp-multi-party-authorization
+- https://github.com/SIDN/ietf-rpp-multi-party-authorization
+- https://github.com/SIDN/ietf-rpp-extension-guidelines
 
 ## Active WG documents
  - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted per [20251027](https://mailarchive.ietf.org/arch/msg/rpp/OTg21Vir7vsmpiozMB_CF1nvUWg/), actively worked on)
