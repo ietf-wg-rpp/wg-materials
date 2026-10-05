@@ -52,6 +52,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 ### Even newer
 - https://github.com/SIDN/ietf-rpp-multi-party-authorization
 - https://github.com/SIDN/ietf-rpp-extension-guidelines
+- https://github.com/SIDN/ietf-rpp-extension-idn-variants
 
 ## Active WG documents
  - 🔧 [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted per [20251027](https://mailarchive.ietf.org/arch/msg/rpp/OTg21Vir7vsmpiozMB_CF1nvUWg/), actively worked on)
