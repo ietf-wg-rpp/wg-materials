@@ -41,7 +41,7 @@ Questions, Concerns, etc: ✉️ rpp-chairs at ietf.org
 ### Discuss with authors and WG:
  - 💬 Which documents fall under the 'Publish mappings between RPP and EPP as proposed standard' milestone?
    - Could it be [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/) ?
- - 🗓️ Adjust planning (`s/2006/2007/g` for some milestones?)
+ - 🗓️ Adjust planning (`s/2026/2027/g` for some milestones?)
 
 ### New work (published on Datatracker shortly before IETF126 deadline and presented there)
  - I-D [draft-wullink-rpp-oauth2](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2/) <!-- https://github.com/SIDN/ietf-rpp-oauth2 --> for describing how to use OAuth 2.0 for RPP
