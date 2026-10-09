@@ -34,14 +34,14 @@ TBD
  - I-D [draft-wullink-rpp-oauth2-delegation](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-delegation/) <!-- https://github.com/SIDN/ietf-rpp-oauth2-delegation --> specifying a mechanism that allows third-party DNS operators to update domain delegation data using OAuth 2.0 and RPP:
  - I-D [draft-wullink-rpp-jscontact-profile](https://datatracker.ietf.org/doc/draft-wullink-rpp-jscontact-profile/) <!-- https://github.com/SIDN/ietf-rpp-jscontact-profile --> that defines the JSContact Profile for RPP
 
-**Are these candidates for adoption? Should we issue a CfA ?**
+**📌 Are these candidates for adoption? Should we issue a CfA ?**
 
 ### Even newer
 - https://github.com/SIDN/ietf-rpp-multi-party-authorization
 - https://github.com/SIDN/ietf-rpp-extension-guidelines
 - https://github.com/SIDN/ietf-rpp-extension-idn-variants
 
-**Discuss at IETF127 ?**
+**📌 Discuss at IETF127 ?**
 
 ## Current, Active WG documents
  - [draft-ietf-rpp-architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/) (adopted per [20251027](https://mailarchive.ietf.org/arch/msg/rpp/OTg21Vir7vsmpiozMB_CF1nvUWg/))
