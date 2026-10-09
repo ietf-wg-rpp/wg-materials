@@ -4,8 +4,8 @@
 90 mins.
 
 > ### ℹ️ Current status:
-> Finished - working on proceedings
-> Planning and preparations in progress. <!-- - next update of this page expected no later than 2026-06-25. -->
+> Finished <!-- - working on proceedings -->
+> <!-- Planning and preparations in progress. --> <!-- - next update of this page expected no later than 2026-06-25. -->
 > <!-- Planning and preparations in final stage - waiting for presenters to upload their slides. -->
 <!-- 
 > - [x] Session request submitted.
