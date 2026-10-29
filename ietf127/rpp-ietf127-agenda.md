@@ -25,7 +25,7 @@
 * P. Kowalik - on site
 * M. Wullink - on site
 
-#### Document Status
+#### Document status
 
 * [Datatracker](https://datatracker.ietf.org/wg/rpp/documents/)
 * [Github](https://github.com/ietf-wg-rpp/wg-materials/blob/main/rpp-document-status.md)
@@ -40,64 +40,64 @@
 
 * Note Well, Agenda Bashing, Note Taker, etc. (Chairs), 4 minutes
 
-#### 🛠️ Current Working Group Business
+#### 🛠️ Current WG business
 
 * WG Operation
-* Deliverables / Milestones; current status and active documents (recently adopted):
-  - TBD
-<!--
-  - I-D: [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/) delta from previous version (P. Kowalik), 15 minutes
-  - I-D: [draft-ietf-rpp-core](https://datatracker.ietf.org/doc/draft-ietf-rpp-core/) resolved issues (M. Wullink), 10 minutes
-  - I-D: [draft-ietf-rpp-json](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/) delta from previous version (P. Kowalik), 15 minutes
-  - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the three combined)
--->
-Topics to Present - 80 mins total
 
-* Document updates: - Pawel - 20+5(q)    → 65’
+* Deliverables & Milestones
+
+* Document updates: - Pawel (25min)
     * I-D: [draft-ietf-rpp-core](https://datatracker.ietf.org/doc/draft-ietf-rpp-core/)
     * I-D: [draft-ietf-rpp-json](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/)
     * I-D: [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/
     * Final document structure
-* Data Objects inheritence → mapping to JSON - Pawel → 5’+5’(q) → 55’
-* Messages - Maarten - 10’ → 45’
-* IDN - Core func + Variants extension - Maarten - 5’+10’(q) → 30’
-* JSON Extensions + Extension Guidelines - Maarten 10’ → 20’
-* Partial Update (time permitting) - Maarten
-* Multi Party Authorization  (time permitting) - Maarten
 
+* Data Objects inheritence → mapping to JSON - Pawel (10min)
 
+* Messages - Maarten (10min)
+
+* IDN - Core func + Variants extension - Maarten (15min)
+
+* JSON Extensions + Extension Guidelines - Maarten (10min)
+
+<!--
 
 * New Work (targeted for adoption)
   - TBD
-<!--
   - I-D: [draft-wullink-rpp-jscontact-profile](https://datatracker.ietf.org/doc/draft-wullink-rpp-jscontact-profile/) (P. Kowalik), 10 minutes
   - I-D: [draft-wullink-rpp-oauth2](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2/) (M. Wullink), 10 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
--->
 
 #### 💡 For Consideration
 
 * TBD
 
-#### ⌛️ Time Permitting
+-->
 
-* TBD
+#### ⌛️ Time permitting
+
+* Partial Update - Maarten
+
+* Multi Party Authorization - Maarten
+
+* Hackathon recap?
 
 <!--
+
 * More OAUth work (seeking feedback)
   - I-D: [draft-wullink-rpp-oauth2-transfer](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-transfer/) (M. Wullink), 5 minutes
   - I-D: [draft-wullink-rpp-oauth2-delegation](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-delegation/) (M. Wullink), 5 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
 * Various updates:
   - [Hackathon](https://wiki.ietf.org/en/meeting/126/hackathon#restful-provisioning-protocol-rpp) recap / live demo (M. Wullink), 5 minutes
+
 -->
 
 #### 🎤 AOB
 
 * Closing remarks (Chairs), 1 minute
-  
----
-### 📚 Potentially relevant reading material
+
+### 📚 Relevant reading material
 
 <!--
 * From the mailing list:
