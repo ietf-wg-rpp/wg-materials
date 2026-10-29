@@ -49,7 +49,7 @@
 * Document updates: - Pawel (25min)
     * I-D: [draft-ietf-rpp-core](https://datatracker.ietf.org/doc/draft-ietf-rpp-core/)
     * I-D: [draft-ietf-rpp-json](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/)
-    * I-D: [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/
+    * I-D: [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/)
     * Final document structure
 
 * Data Objects inheritence → mapping to JSON - Pawel (10min)
