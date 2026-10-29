@@ -22,8 +22,8 @@
 * [Charles Eckel](https://datatracker.ietf.org/person/eckelcu@cisco.com)
 
 #### Presenters (planned)
-* P. Kowalik (?)
-* M. Wullink (?)
+* P. Kowalik - on site
+* M. Wullink - on site
 
 #### Document Status
 
@@ -51,6 +51,22 @@
   - I-D: [draft-ietf-rpp-json](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/) delta from previous version (P. Kowalik), 15 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the three combined)
 -->
+Topics to Present - 80 mins total
+
+* Document updates: - Pawel - 20+5(q)    → 65’
+    * I-D: [draft-ietf-rpp-core](https://datatracker.ietf.org/doc/draft-ietf-rpp-core/)
+    * I-D: [draft-ietf-rpp-json](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/)
+    * I-D: [draft-ietf-rpp-data-objects](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/
+    * Final document structure
+* Data Objects inheritence → mapping to JSON - Pawel → 5’+5’(q) → 55’
+* Messages - Maarten - 10’ → 45’
+* IDN - Core func + Variants extension - Maarten - 5’+10’(q) → 30’
+* JSON Extensions + Extension Guidelines - Maarten 10’ → 20’
+* Partial Update (time permitting) - Maarten
+* Multi Party Authorization  (time permitting) - Maarten
+
+
+
 * New Work (targeted for adoption)
   - TBD
 <!--
