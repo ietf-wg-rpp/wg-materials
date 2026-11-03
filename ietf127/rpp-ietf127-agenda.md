@@ -58,14 +58,13 @@
 
 * IDN - Core func + Variants extension - Maarten (15min)
 
-* JSON Extensions + Extension Guidelines - Maarten (10min)
+* Extensions + Extension Guidelines - Maarten (10min)
 
 <!--
 
 * New Work (targeted for adoption)
   - TBD
   - I-D: [draft-wullink-rpp-jscontact-profile](https://datatracker.ietf.org/doc/draft-wullink-rpp-jscontact-profile/) (P. Kowalik), 10 minutes
-  - I-D: [draft-wullink-rpp-oauth2](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2/) (M. Wullink), 10 minutes
   - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
 
 #### 💡 For Consideration
@@ -80,18 +79,7 @@
 
 * Multi Party Authorization - Maarten
 
-* Hackathon recap?
-
-<!--
-
-* More OAUth work (seeking feedback)
-  - I-D: [draft-wullink-rpp-oauth2-transfer](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-transfer/) (M. Wullink), 5 minutes
-  - I-D: [draft-wullink-rpp-oauth2-delegation](https://datatracker.ietf.org/doc/draft-wullink-rpp-oauth2-delegation/) (M. Wullink), 5 minutes
-  - 🎤 Open mic for clarifying questions/discussion, 5 minutes (in total for the two combined)
-* Various updates:
-  - [Hackathon](https://wiki.ietf.org/en/meeting/126/hackathon#restful-provisioning-protocol-rpp) recap / live demo (M. Wullink), 5 minutes
-
--->
+* Hackathon recap
 
 #### 🎤 AOB
 
@@ -106,9 +94,12 @@
 
 * On GitHub:
   - https://github.com/ietf-wg-rpp/RPP-architecture/issues
-  - https://github.com/pawel-kow/draft-kowalik-rpp-data-objects/issues
+  - https://github.com/ietf-wg-rpp/draft-ietf-rpp-data-objects/issues
   - https://github.com/SIDN/ietf-rpp-core/issues
   - https://github.com/SIDN/ietf-rpp-json/issues
+  - https://github.com/SIDN/ietf-rpp-jscontact-profile/issues
+  - https://github.com/SIDN/ietf-rpp-extension-guidelines/issues
+  - https://github.com/SIDN/ietf-rpp-multi-party-authorization/issues
 
 <!--
 * Per request 
